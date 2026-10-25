@@ -26,7 +26,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run stock research
-        run: python research.py
+        run: python research.py --indices sp500
 
       - name: Save research snapshots
         run: |
