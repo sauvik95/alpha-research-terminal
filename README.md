@@ -10,7 +10,7 @@ python research.py
 streamlit run app.py
 ```
 
-## iPhone-only deployment (no local Python needed)
+## Python deployment
 
 1. In the iPhone **Files** app, tap the downloaded ZIP to extract it.
 2. Open https://github.com/sauvik95/alpha-research-terminal in Safari. If the repo is empty, create a README via GitHub first so its file upload interface becomes available. Use **Add file → Upload files**. GitHub's mobile web upload may not preserve folder trees; the most reliable route is Safari **Request Desktop Website** and uploading the extracted folder contents in batches, checking that `agents/scoring.py` and `.github/workflows/research.yml` retain their paths. If the upload UI won't preserve folders, create the folders and files using GitHub's **Create new file** and slash-separated paths, or use a computer once.
