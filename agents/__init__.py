@@ -1,1 +1,1 @@
-"""Transparent research scoring modules; not autonomous LLM agents."""
+"""Transparent research scoring modules."""
