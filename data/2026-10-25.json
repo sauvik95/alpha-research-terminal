@@ -1,0 +1,1224 @@
+{
+  "generated_at_utc": "2026-10-25T21:08:53Z",
+  "benchmark": "SPY",
+  "universe": [
+    "NVDA",
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "META",
+    "AMD",
+    "AVGO",
+    "PLTR",
+    "CRWD",
+    "MELI",
+    "SHOP",
+    "UBER",
+    "TSLA",
+    "RKLB",
+    "HIMS",
+    "SOFI"
+  ],
+  "results": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "price": 210.960007,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 97.5,
+          "coverage": 5,
+          "metrics": {
+            "revenue_growth": 1.059,
+            "earnings_growth": 1.278,
+            "return_on_equity": 1.17211,
+            "forward_pe": 13.255753,
+            "debt_to_equity": 16.971
+          },
+          "evidence": [
+            "revenue_growth: 105.9%",
+            "earnings_growth: 127.8%",
+            "return_on_equity: 117.2%",
+            "forward P/E: 13.3",
+            "debt/equity: 17.0 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 100,
+          "coverage": 4,
+          "metrics": {
+            "price": 210.960007,
+            "ma50": 222.393931,
+            "ma200": 203.362236,
+            "return_3m": 0.074734,
+            "return_6m": 0.015231,
+            "vol_3m_annualized": 0.361486
+          },
+          "evidence": [
+            "Price above 200d MA: True",
+            "50d above 200d MA: True",
+            "3m momentum: 7.5%",
+            "6m momentum: 1.5%"
+          ]
+        },
+        "quantitative": {
+          "score": 53.8,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 1.936801,
+            "annualized_alpha_1y_approx": -0.057117,
+            "annualized_vol_1y": 0.376104,
+            "max_drawdown_2y": -0.36881,
+            "momentum_6m": 0.015231
+          },
+          "evidence": [
+            "1y beta: 1.94",
+            "Annualized volatility: 37.6%",
+            "2y max drawdown: -36.9%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 82.8,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 46.2,
+        "debate": [
+          "Fundamental agent: 97.5/100",
+          "Technical agent: 100.0/100",
+          "Quantitative agent: 53.8/100",
+          "Score dispersion: 46.2 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft Corporation",
+      "price": 524.51001,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 81.0,
+          "coverage": 5,
+          "metrics": {
+            "revenue_growth": 0.177,
+            "earnings_growth": 0.317,
+            "return_on_equity": 0.34039,
+            "forward_pe": 22.128946,
+            "debt_to_equity": 29.118
+          },
+          "evidence": [
+            "revenue_growth: 17.7%",
+            "earnings_growth: 31.7%",
+            "return_on_equity: 34.0%",
+            "forward P/E: 22.1",
+            "debt/equity: 29.1 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 100,
+          "coverage": 4,
+          "metrics": {
+            "price": 524.51001,
+            "ma50": 508.354634,
+            "ma200": 435.367563,
+            "return_3m": 0.350546,
+            "return_6m": 0.240251,
+            "vol_3m_annualized": 0.387335
+          },
+          "evidence": [
+            "Price above 200d MA: True",
+            "50d above 200d MA: True",
+            "3m momentum: 35.1%",
+            "6m momentum: 24.0%"
+          ]
+        },
+        "quantitative": {
+          "score": 63.8,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 1.009507,
+            "annualized_alpha_1y_approx": -0.080613,
+            "annualized_vol_1y": 0.329122,
+            "max_drawdown_2y": -0.344984,
+            "momentum_6m": 0.240251
+          },
+          "evidence": [
+            "1y beta: 1.01",
+            "Annualized volatility: 32.9%",
+            "2y max drawdown: -34.5%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 79.7,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 36.2,
+        "debate": [
+          "Fundamental agent: 81.0/100",
+          "Technical agent: 100.0/100",
+          "Quantitative agent: 63.8/100",
+          "Score dispersion: 36.2 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices, Inc.",
+      "price": 516.789978,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 80.2,
+          "coverage": 5,
+          "metrics": {
+            "revenue_growth": 0.501,
+            "earnings_growth": 1.595,
+            "return_on_equity": 0.10196,
+            "forward_pe": 32.78523,
+            "debt_to_equity": 6.361
+          },
+          "evidence": [
+            "revenue_growth: 50.1%",
+            "earnings_growth: 159.5%",
+            "return_on_equity: 10.2%",
+            "forward P/E: 32.8",
+            "debt/equity: 6.4 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 100,
+          "coverage": 4,
+          "metrics": {
+            "price": 516.789978,
+            "ma50": 542.279398,
+            "ma200": 402.08325,
+            "return_3m": 0.044126,
+            "return_6m": 0.48584,
+            "vol_3m_annualized": 0.635479
+          },
+          "evidence": [
+            "Price above 200d MA: True",
+            "50d above 200d MA: True",
+            "3m momentum: 4.4%",
+            "6m momentum: 48.6%"
+          ]
+        },
+        "quantitative": {
+          "score": 64.5,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 3.24077,
+            "annualized_alpha_1y_approx": 0.5597,
+            "annualized_vol_1y": 0.682284,
+            "max_drawdown_2y": -0.529564,
+            "momentum_6m": 0.48584
+          },
+          "evidence": [
+            "1y beta: 3.24",
+            "Annualized volatility: 68.2%",
+            "2y max drawdown: -53.0%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 79.7,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 35.5,
+        "debate": [
+          "Fundamental agent: 80.2/100",
+          "Technical agent: 100.0/100",
+          "Quantitative agent: 64.5/100",
+          "Score dispersion: 35.5 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies Inc.",
+      "price": 196.75,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 79.8,
+          "coverage": 5,
+          "metrics": {
+            "revenue_growth": 0.928,
+            "earnings_growth": 2.154,
+            "return_on_equity": 0.38097,
+            "forward_pe": 83.70559,
+            "debt_to_equity": 2.139
+          },
+          "evidence": [
+            "revenue_growth: 92.8%",
+            "earnings_growth: 215.4%",
+            "return_on_equity: 38.1%",
+            "forward P/E: 83.7",
+            "debt/equity: 2.1 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 100,
+          "coverage": 4,
+          "metrics": {
+            "price": 196.75,
+            "ma50": 184.752199,
+            "ma200": 153.148725,
+            "return_3m": 0.495856,
+            "return_6m": 0.375009,
+            "vol_3m_annualized": 0.759737
+          },
+          "evidence": [
+            "Price above 200d MA: True",
+            "50d above 200d MA: True",
+            "3m momentum: 49.6%",
+            "6m momentum: 37.5%"
+          ]
+        },
+        "quantitative": {
+          "score": 55.9,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 2.008721,
+            "annualized_alpha_1y_approx": -0.005689,
+            "annualized_vol_1y": 0.60778,
+            "max_drawdown_2y": -0.482238,
+            "momentum_6m": 0.375009
+          },
+          "evidence": [
+            "1y beta: 2.01",
+            "Annualized volatility: 60.8%",
+            "2y max drawdown: -48.2%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 76.5,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 44.1,
+        "debate": [
+          "Fundamental agent: 79.8/100",
+          "Technical agent: 100.0/100",
+          "Quantitative agent: 55.9/100",
+          "Score dispersion: 44.1 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon.com, Inc.",
+      "price": 248.0,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 83.2,
+          "coverage": 5,
+          "metrics": {
+            "revenue_growth": 0.196,
+            "earnings_growth": 2.423,
+            "return_on_equity": 0.30558,
+            "forward_pe": 23.777382,
+            "debt_to_equity": 45.617
+          },
+          "evidence": [
+            "revenue_growth: 19.6%",
+            "earnings_growth: 242.3%",
+            "return_on_equity: 30.6%",
+            "forward P/E: 23.8",
+            "debt/equity: 45.6 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 80.0,
+          "coverage": 4,
+          "metrics": {
+            "price": 248.0,
+            "ma50": 255.6476,
+            "ma200": 243.2929,
+            "return_3m": 0.071784,
+            "return_6m": -0.06057,
+            "vol_3m_annualized": 0.426798
+          },
+          "evidence": [
+            "Price above 200d MA: True",
+            "50d above 200d MA: True",
+            "3m momentum: 7.2%",
+            "6m momentum: -6.1%"
+          ]
+        },
+        "quantitative": {
+          "score": 54.9,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 1.475172,
+            "annualized_alpha_1y_approx": -0.030554,
+            "annualized_vol_1y": 0.347287,
+            "max_drawdown_2y": -0.308766,
+            "momentum_6m": -0.06057
+          },
+          "evidence": [
+            "1y beta: 1.48",
+            "Annualized volatility: 34.7%",
+            "2y max drawdown: -30.9%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 72.5,
+        "decision": "RESEARCH PRIORITY",
+        "disagreement": 28.3,
+        "debate": [
+          "Fundamental agent: 83.2/100",
+          "Technical agent: 80.0/100",
+          "Quantitative agent: 54.9/100",
+          "Score dispersion: 28.3 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "SHOP",
+      "company": "Shopify Inc.",
+      "price": 168.679993,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 70.7,
+          "coverage": 5,
+          "metrics": {
+            "revenue_growth": 0.337,
+            "earnings_growth": 0.681,
+            "return_on_equity": 0.15543,
+            "forward_pe": 68.67043,
+            "debt_to_equity": 1.403
+          },
+          "evidence": [
+            "revenue_growth: 33.7%",
+            "earnings_growth: 68.1%",
+            "return_on_equity: 15.5%",
+            "forward P/E: 68.7",
+            "debt/equity: 1.4 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 100,
+          "coverage": 4,
+          "metrics": {
+            "price": 168.679993,
+            "ma50": 151.111,
+            "ma200": 129.8803,
+            "return_3m": 0.329445,
+            "return_6m": 0.340539,
+            "vol_3m_annualized": 0.602044
+          },
+          "evidence": [
+            "Price above 200d MA: True",
+            "50d above 200d MA: True",
+            "3m momentum: 32.9%",
+            "6m momentum: 34.1%"
+          ]
+        },
+        "quantitative": {
+          "score": 54.9,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 1.856404,
+            "annualized_alpha_1y_approx": -0.062926,
+            "annualized_vol_1y": 0.586962,
+            "max_drawdown_2y": -0.467069,
+            "momentum_6m": 0.340539
+          },
+          "evidence": [
+            "1y beta: 1.86",
+            "Annualized volatility: 58.7%",
+            "2y max drawdown: -46.7%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 72.5,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 45.1,
+        "debate": [
+          "Fundamental agent: 70.7/100",
+          "Technical agent: 100.0/100",
+          "Quantitative agent: 54.9/100",
+          "Score dispersion: 45.1 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings, Inc.",
+      "price": 257.570007,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 50.2,
+          "coverage": 4,
+          "metrics": {
+            "revenue_growth": 0.258,
+            "earnings_growth": null,
+            "return_on_equity": 0.01461,
+            "forward_pe": 159.85924,
+            "debt_to_equity": 15.958
+          },
+          "evidence": [
+            "revenue_growth: 25.8%",
+            "return_on_equity: 1.5%",
+            "forward P/E: 159.9",
+            "debt/equity: 16.0 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 100,
+          "coverage": 4,
+          "metrics": {
+            "price": 257.570007,
+            "ma50": 234.804601,
+            "ma200": 163.614325,
+            "return_3m": 0.430071,
+            "return_6m": 1.299065,
+            "vol_3m_annualized": 0.725683
+          },
+          "evidence": [
+            "Price above 200d MA: True",
+            "50d above 200d MA: True",
+            "3m momentum: 43.0%",
+            "6m momentum: 129.9%"
+          ]
+        },
+        "quantitative": {
+          "score": 73.7,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 1.520824,
+            "annualized_alpha_1y_approx": 0.652845,
+            "annualized_vol_1y": 0.562378,
+            "max_drawdown_2y": -0.371783,
+            "momentum_6m": 1.299065
+          },
+          "evidence": [
+            "1y beta: 1.52",
+            "Annualized volatility: 56.2%",
+            "2y max drawdown: -37.2%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 70.9,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 49.8,
+        "debate": [
+          "Fundamental agent: 50.2/100",
+          "Technical agent: 100.0/100",
+          "Quantitative agent: 73.7/100",
+          "Score dispersion: 49.8 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms, Inc.",
+      "price": 642.619995,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 88.8,
+          "coverage": 5,
+          "metrics": {
+            "revenue_growth": 0.261,
+            "earnings_growth": 2.648,
+            "return_on_equity": 0.32264,
+            "forward_pe": 18.455109,
+            "debt_to_equity": 42.161
+          },
+          "evidence": [
+            "revenue_growth: 26.1%",
+            "earnings_growth: 264.8%",
+            "return_on_equity: 32.3%",
+            "forward P/E: 18.5",
+            "debt/equity: 42.2 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 80.0,
+          "coverage": 4,
+          "metrics": {
+            "price": 642.619995,
+            "ma50": 663.576663,
+            "ma200": 631.659157,
+            "return_3m": 0.082943,
+            "return_6m": -0.046378,
+            "vol_3m_annualized": 0.476807
+          },
+          "evidence": [
+            "Price above 200d MA: True",
+            "50d above 200d MA: True",
+            "3m momentum: 8.3%",
+            "6m momentum: -4.6%"
+          ]
+        },
+        "quantitative": {
+          "score": 42.8,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 1.520974,
+            "annualized_alpha_1y_approx": -0.26372,
+            "annualized_vol_1y": 0.426073,
+            "max_drawdown_2y": -0.341508,
+            "momentum_6m": -0.046378
+          },
+          "evidence": [
+            "1y beta: 1.52",
+            "Annualized volatility: 42.6%",
+            "2y max drawdown: -34.2%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 70.5,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 46.0,
+        "debate": [
+          "Fundamental agent: 88.8/100",
+          "Technical agent: 80.0/100",
+          "Quantitative agent: 42.8/100",
+          "Score dispersion: 46.0 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "price": 320.209991,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 90.2,
+          "coverage": 5,
+          "metrics": {
+            "revenue_growth": 0.242,
+            "earnings_growth": 2.94,
+            "return_on_equity": 0.48676,
+            "forward_pe": 20.84885,
+            "debt_to_equity": 18.859
+          },
+          "evidence": [
+            "revenue_growth: 24.2%",
+            "earnings_growth: 294.0%",
+            "return_on_equity: 48.7%",
+            "forward P/E: 20.8",
+            "debt/equity: 18.9 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 25.0,
+          "coverage": 4,
+          "metrics": {
+            "price": 320.209991,
+            "ma50": 342.876932,
+            "ma200": 340.985129,
+            "return_3m": -0.018815,
+            "return_6m": -0.069085,
+            "vol_3m_annualized": 0.292112
+          },
+          "evidence": [
+            "Price above 200d MA: False",
+            "50d above 200d MA: True",
+            "3m momentum: -1.9%",
+            "6m momentum: -6.9%"
+          ]
+        },
+        "quantitative": {
+          "score": 60.4,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 1.38714,
+            "annualized_alpha_1y_approx": 0.087409,
+            "annualized_vol_1y": 0.316146,
+            "max_drawdown_2y": -0.298059,
+            "momentum_6m": -0.069085
+          },
+          "evidence": [
+            "1y beta: 1.39",
+            "Annualized volatility: 31.6%",
+            "2y max drawdown: -29.8%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 63.5,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 65.2,
+        "debate": [
+          "Fundamental agent: 90.2/100",
+          "Technical agent: 25.0/100",
+          "Quantitative agent: 60.4/100",
+          "Score dispersion: 65.2 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "price": 321.679993,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 92.9,
+          "coverage": 5,
+          "metrics": {
+            "revenue_growth": 0.855,
+            "earnings_growth": 2.153,
+            "return_on_equity": 0.44245,
+            "forward_pe": 16.554564,
+            "debt_to_equity": 59.604
+          },
+          "evidence": [
+            "revenue_growth: 85.5%",
+            "earnings_growth: 215.3%",
+            "return_on_equity: 44.2%",
+            "forward P/E: 16.6",
+            "debt/equity: 59.6 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 0,
+          "coverage": 4,
+          "metrics": {
+            "price": 321.679993,
+            "ma50": 356.426978,
+            "ma200": 366.739459,
+            "return_3m": -0.159058,
+            "return_6m": -0.236503,
+            "vol_3m_annualized": 0.382482
+          },
+          "evidence": [
+            "Price above 200d MA: False",
+            "50d above 200d MA: False",
+            "3m momentum: -15.9%",
+            "6m momentum: -23.7%"
+          ]
+        },
+        "quantitative": {
+          "score": 32.3,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 2.176128,
+            "annualized_alpha_1y_approx": -0.2658,
+            "annualized_vol_1y": 0.458343,
+            "max_drawdown_2y": -0.411497,
+            "momentum_6m": -0.236503
+          },
+          "evidence": [
+            "1y beta: 2.18",
+            "Annualized volatility: 45.8%",
+            "2y max drawdown: -41.1%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 48.5,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 92.9,
+        "debate": [
+          "Fundamental agent: 92.9/100",
+          "Technical agent: 0.0/100",
+          "Quantitative agent: 32.3/100",
+          "Score dispersion: 92.9 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "UBER",
+      "company": "Uber Technologies, Inc.",
+      "price": 66.699997,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 84.9,
+          "coverage": 5,
+          "metrics": {
+            "revenue_growth": 0.122,
+            "earnings_growth": 0.855,
+            "return_on_equity": 0.3716,
+            "forward_pe": 15.11762,
+            "debt_to_equity": 51.872
+          },
+          "evidence": [
+            "revenue_growth: 12.2%",
+            "earnings_growth: 85.5%",
+            "return_on_equity: 37.2%",
+            "forward P/E: 15.1",
+            "debt/equity: 51.9 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 0,
+          "coverage": 4,
+          "metrics": {
+            "price": 66.699997,
+            "ma50": 72.2916,
+            "ma200": 73.83545,
+            "return_3m": -0.021707,
+            "return_6m": -0.106377,
+            "vol_3m_annualized": 0.345068
+          },
+          "evidence": [
+            "Price above 200d MA: False",
+            "50d above 200d MA: False",
+            "3m momentum: -2.2%",
+            "6m momentum: -10.6%"
+          ]
+        },
+        "quantitative": {
+          "score": 40.5,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 0.832591,
+            "annualized_alpha_1y_approx": -0.38499,
+            "annualized_vol_1y": 0.353499,
+            "max_drawdown_2y": -0.341259,
+            "momentum_6m": -0.106377
+          },
+          "evidence": [
+            "1y beta: 0.83",
+            "Annualized volatility: 35.3%",
+            "2y max drawdown: -34.1%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 48.1,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 84.9,
+        "debate": [
+          "Fundamental agent: 84.9/100",
+          "Technical agent: 0.0/100",
+          "Quantitative agent: 40.5/100",
+          "Score dispersion: 84.9 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "MELI",
+      "company": "MercadoLibre, Inc.",
+      "price": 1810.150024,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 58.9,
+          "coverage": 5,
+          "metrics": {
+            "revenue_growth": 0.498,
+            "earnings_growth": -0.109,
+            "return_on_equity": 0.27504,
+            "forward_pe": 32.18672,
+            "debt_to_equity": 168.586
+          },
+          "evidence": [
+            "revenue_growth: 49.8%",
+            "earnings_growth: -10.9%",
+            "return_on_equity: 27.5%",
+            "forward P/E: 32.2",
+            "debt/equity: 168.6 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 25.0,
+          "coverage": 4,
+          "metrics": {
+            "price": 1810.150024,
+            "ma50": 1859.331191,
+            "ma200": 1825.208349,
+            "return_3m": -0.00527,
+            "return_6m": -0.01366,
+            "vol_3m_annualized": 0.391054
+          },
+          "evidence": [
+            "Price above 200d MA: False",
+            "50d above 200d MA: True",
+            "3m momentum: -0.5%",
+            "6m momentum: -1.4%"
+          ]
+        },
+        "quantitative": {
+          "score": 44.2,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 1.10472,
+            "annualized_alpha_1y_approx": -0.228759,
+            "annualized_vol_1y": 0.401807,
+            "max_drawdown_2y": -0.408176,
+            "momentum_6m": -0.01366
+          },
+          "evidence": [
+            "1y beta: 1.10",
+            "Annualized volatility: 40.2%",
+            "2y max drawdown: -40.8%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 45.3,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 33.9,
+        "debate": [
+          "Fundamental agent: 58.9/100",
+          "Technical agent: 25.0/100",
+          "Quantitative agent: 44.2/100",
+          "Score dispersion: 33.9 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "SOFI",
+      "company": "SoFi Technologies, Inc.",
+      "price": 14.615,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 79.8,
+          "coverage": 5,
+          "metrics": {
+            "revenue_growth": 0.426,
+            "earnings_growth": 0.404,
+            "return_on_equity": 0.07095,
+            "forward_pe": 17.767054,
+            "debt_to_equity": 30.835
+          },
+          "evidence": [
+            "revenue_growth: 42.6%",
+            "earnings_growth: 40.4%",
+            "return_on_equity: 7.1%",
+            "forward P/E: 17.8",
+            "debt/equity: 30.8 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 0,
+          "coverage": 4,
+          "metrics": {
+            "price": 14.615,
+            "ma50": 16.7405,
+            "ma200": 18.0515,
+            "return_3m": -0.134182,
+            "return_6m": -0.20743,
+            "vol_3m_annualized": 0.526366
+          },
+          "evidence": [
+            "Price above 200d MA: False",
+            "50d above 200d MA: False",
+            "3m momentum: -13.4%",
+            "6m momentum: -20.7%"
+          ]
+        },
+        "quantitative": {
+          "score": 22.9,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 2.661979,
+            "annualized_alpha_1y_approx": -0.860021,
+            "annualized_vol_1y": 0.553273,
+            "max_drawdown_2y": -0.558522,
+            "momentum_6m": -0.20743
+          },
+          "evidence": [
+            "1y beta: 2.66",
+            "Annualized volatility: 55.3%",
+            "2y max drawdown: -55.9%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 39.9,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 79.8,
+        "debate": [
+          "Fundamental agent: 79.8/100",
+          "Technical agent: 0.0/100",
+          "Quantitative agent: 22.9/100",
+          "Score dispersion: 79.8 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "HIMS",
+      "company": "Hims & Hers Health, Inc.",
+      "price": 27.709999,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 37.5,
+          "coverage": 4,
+          "metrics": {
+            "revenue_growth": 0.382,
+            "earnings_growth": null,
+            "return_on_equity": -0.32033,
+            "forward_pe": 37.585114,
+            "debt_to_equity": 477.128
+          },
+          "evidence": [
+            "revenue_growth: 38.2%",
+            "return_on_equity: -32.0%",
+            "forward P/E: 37.6",
+            "debt/equity: 477.1 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 60.0,
+          "coverage": 4,
+          "metrics": {
+            "price": 27.709999,
+            "ma50": 29.1372,
+            "ma200": 27.12625,
+            "return_3m": -0.083664,
+            "return_6m": -0.093259,
+            "vol_3m_annualized": 0.78142
+          },
+          "evidence": [
+            "Price above 200d MA: True",
+            "50d above 200d MA: True",
+            "3m momentum: -8.4%",
+            "6m momentum: -9.3%"
+          ]
+        },
+        "quantitative": {
+          "score": 9.3,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 2.778176,
+            "annualized_alpha_1y_approx": -0.572932,
+            "annualized_vol_1y": 0.887699,
+            "max_drawdown_2y": -0.788769,
+            "momentum_6m": -0.093259
+          },
+          "evidence": [
+            "1y beta: 2.78",
+            "Annualized volatility: 88.8%",
+            "2y max drawdown: -78.9%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 33.3,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 50.7,
+        "debate": [
+          "Fundamental agent: 37.5/100",
+          "Technical agent: 60.0/100",
+          "Quantitative agent: 9.3/100",
+          "Score dispersion: 50.7 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla, Inc.",
+      "price": 372.220001,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 30.6,
+          "coverage": 5,
+          "metrics": {
+            "revenue_growth": -0.002,
+            "earnings_growth": -0.436,
+            "return_on_equity": 0.03844,
+            "forward_pe": 171.9841,
+            "debt_to_equity": 18.295
+          },
+          "evidence": [
+            "revenue_growth: -0.2%",
+            "earnings_growth: -43.6%",
+            "return_on_equity: 3.8%",
+            "forward P/E: 172.0",
+            "debt/equity: 18.3 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 20.0,
+          "coverage": 4,
+          "metrics": {
+            "price": 372.220001,
+            "ma50": 363.768198,
+            "ma200": 386.347399,
+            "return_3m": 0.203738,
+            "return_6m": -0.010842,
+            "vol_3m_annualized": 0.39303
+          },
+          "evidence": [
+            "Price above 200d MA: False",
+            "50d above 200d MA: False",
+            "3m momentum: 20.4%",
+            "6m momentum: -1.1%"
+          ]
+        },
+        "quantitative": {
+          "score": 34.5,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 2.211386,
+            "annualized_alpha_1y_approx": -0.390361,
+            "annualized_vol_1y": 0.450658,
+            "max_drawdown_2y": -0.537657,
+            "momentum_6m": -0.010842
+          },
+          "evidence": [
+            "1y beta: 2.21",
+            "Annualized volatility: 45.1%",
+            "2y max drawdown: -53.8%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 29.3,
+        "decision": "LOW PRIORITY",
+        "disagreement": 14.5,
+        "debate": [
+          "Fundamental agent: 30.6/100",
+          "Technical agent: 20.0/100",
+          "Quantitative agent: 34.5/100",
+          "Score dispersion: 14.5 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab Corporation",
+      "price": 52.599998,
+      "currency": "USD",
+      "agents": {
+        "fundamental": {
+          "score": 50.8,
+          "coverage": 4,
+          "metrics": {
+            "revenue_growth": 0.62,
+            "earnings_growth": null,
+            "return_on_equity": -0.07915,
+            "forward_pe": 914.9417,
+            "debt_to_equity": 3.828
+          },
+          "evidence": [
+            "revenue_growth: 62.0%",
+            "return_on_equity: -7.9%",
+            "forward P/E: 914.9",
+            "debt/equity: 3.8 (Yahoo units)"
+          ],
+          "caution": "Yahoo fundamentals may be stale, missing or incomparable across sectors."
+        },
+        "technical": {
+          "score": 0,
+          "coverage": 4,
+          "metrics": {
+            "price": 52.599998,
+            "ma50": 66.3412,
+            "ma200": 80.58665,
+            "return_3m": -0.214222,
+            "return_6m": -0.339859,
+            "vol_3m_annualized": 0.659335
+          },
+          "evidence": [
+            "Price above 200d MA: False",
+            "50d above 200d MA: False",
+            "3m momentum: -21.4%",
+            "6m momentum: -34.0%"
+          ]
+        },
+        "quantitative": {
+          "score": 5.9,
+          "coverage": 4,
+          "metrics": {
+            "beta_1y": 3.89921,
+            "annualized_alpha_1y_approx": -0.292307,
+            "annualized_vol_1y": 0.936983,
+            "max_drawdown_2y": -0.661586,
+            "momentum_6m": -0.339859
+          },
+          "evidence": [
+            "1y beta: 3.90",
+            "Annualized volatility: 93.7%",
+            "2y max drawdown: -66.2%"
+          ],
+          "caution": "Historical factor proxies are not forecasts; alpha estimate is a simplified single-index estimate."
+        }
+      },
+      "committee": {
+        "score": 22.4,
+        "decision": "CONTESTED \u2014 REVIEW",
+        "disagreement": 50.8,
+        "debate": [
+          "Fundamental agent: 50.8/100",
+          "Technical agent: 0.0/100",
+          "Quantitative agent: 5.9/100",
+          "Score dispersion: 50.8 points; no consensus override without review."
+        ],
+        "note": "Research ranking only; not a price target, return probability or investment recommendation."
+      },
+      "as_of_price_date": "2026-10-23"
+    }
+  ],
+  "errors": [],
+  "methodology": "Transparent heuristic screening. Not AI inference, guaranteed upside, or investment advice.",
+  "disclaimer": "Free market data may be delayed, incomplete or wrong. Verify independently before investing."
+}
