@@ -48,6 +48,12 @@ def technical(close):
             f'50d above 200d MA: {ma50>ma200}',f'3m momentum: {ret63:.1%}',f'6m momentum: {ret126:.1%}']}
 
 def quantitative(close,benchmark):
+    close = close.copy()
+    benchmark = benchmark.copy()
+
+    close.index = pd.to_datetime(close.index, utc=True).tz_localize(None).normalize()
+    benchmark.index = pd.to_datetime(benchmark.index, utc=True).tz_localize(None).normalize()
+
     pair=pd.concat([close.pct_change().rename('stock'),benchmark.pct_change().rename('benchmark')],axis=1).dropna().tail(252)
     if len(pair)<100:
         return {'score':None,'coverage':0,'evidence':['Insufficient overlapping return history']}
