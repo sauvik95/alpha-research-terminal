@@ -91,7 +91,7 @@ def refresh_fundamentals(tickers, cache, max_requests, stale_days):
     # Uncached companies are prioritized, then stale ones.
     pending.sort(key=lambda t: (t in cache, cache.get(t, {}).get('updated_at', '')))
     failures = {}
-    for number, ticker in enumerate(pending[:max_requests], 1):
+    for number, ticker in enumerate(pending if max_requests is None else pending[:max_requests], 1):
         try:
             raw = yf.Ticker(ticker).info or {}
             values = {key: clean(raw.get(key)) for key in FUNDAMENTAL_KEYS}
@@ -103,7 +103,7 @@ def refresh_fundamentals(tickers, cache, max_requests, stale_days):
         if number % 25 == 0:
             print(f'Fundamental refresh {number}/{min(len(pending), max_requests)}', flush=True)
         time.sleep(0.25)
-    return failures, len(pending), min(len(pending), max_requests)
+    return failures, len(pending), len(pending) if max_requests is None else min(len(pending), max_requests)
 
 
 def main():
@@ -116,7 +116,7 @@ def main():
     indices = list(dict.fromkeys(s.strip().upper() for s in args.indices.split(',') if s.strip()))
     if not indices or set(indices) - set(ALL_INDICES):
         parser.error(f'Indices must be from: {ALL_INDICES}')
-    if args.max_fundamentals < 0 or not 0 < args.min_price_coverage <= 1:
+    if (args.max_fundamentals is not None and args.max_fundamentals < 0) or not 0 < args.min_price_coverage <= 1:
         parser.error('Invalid coverage or fundamental request settings')
 
     DATA.mkdir(exist_ok=True)
