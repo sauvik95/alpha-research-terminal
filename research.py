@@ -101,7 +101,7 @@ def refresh_fundamentals(tickers, cache, max_requests, stale_days):
         except Exception as exc:
             failures[ticker] = str(exc)[:180]
         if number % 25 == 0:
-            print(f'Fundamental refresh {number}/{min(len(pending), max_requests)}', flush=True)
+            print(f'Fundamental refresh {number}/{len(pending) if max_requests is None else min(len(pending), max_requests)}', flush=True)
         time.sleep(0.25)
     return failures, len(pending), len(pending) if max_requests is None else min(len(pending), max_requests)
 
