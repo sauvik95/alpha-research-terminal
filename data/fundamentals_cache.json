@@ -1438,5 +1438,4601 @@
       "forwardPE": 36.374203,
       "debtToEquity": 52.096
     }
+  },
+  "CTSH": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Cognizant Technology Solutions ",
+      "currency": "USD",
+      "revenueGrowth": 0.045,
+      "earningsGrowth": 0.038,
+      "returnOnEquity": 0.14924,
+      "forwardPE": 11.135439,
+      "debtToEquity": 14.479
+    }
+  },
+  "CVNA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Carvana Co.",
+      "currency": "USD",
+      "revenueGrowth": 0.524,
+      "earningsGrowth": 0.615,
+      "returnOnEquity": 0.58773,
+      "forwardPE": 25.756752,
+      "debtToEquity": 110.88
+    }
+  },
+  "CVS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "CVS Health Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.071,
+      "earningsGrowth": 1.888,
+      "returnOnEquity": 0.06205,
+      "forwardPE": 10.951134,
+      "debtToEquity": 95.503
+    }
+  },
+  "CVX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Chevron Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.535,
+      "earningsGrowth": 3.219,
+      "returnOnEquity": 0.12231,
+      "forwardPE": 14.838952,
+      "debtToEquity": 18.959
+    }
+  },
+  "D": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Dominion Energy, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.176,
+      "earningsGrowth": -0.58,
+      "returnOnEquity": 0.08281,
+      "forwardPE": 17.088999,
+      "debtToEquity": 160.459
+    }
+  },
+  "DAL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Delta Air Lines, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.211,
+      "earningsGrowth": -0.47,
+      "returnOnEquity": 0.15914,
+      "forwardPE": 10.5201,
+      "debtToEquity": 88.549
+    }
+  },
+  "DASH": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "DoorDash, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.356,
+      "earningsGrowth": -0.3,
+      "returnOnEquity": 0.08887,
+      "forwardPE": 21.738737,
+      "debtToEquity": 33.276
+    }
+  },
+  "DD": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "DuPont de Nemours, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.04,
+      "earningsGrowth": 1.496,
+      "returnOnEquity": 0.01792,
+      "forwardPE": 17.090263,
+      "debtToEquity": 22.902
+    }
+  },
+  "DDOG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Datadog, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.356,
+      "earningsGrowth": 14.985,
+      "returnOnEquity": 0.04696,
+      "forwardPE": 90.35135,
+      "debtToEquity": 29.259
+    }
+  },
+  "DE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Deere & Company",
+      "currency": "USD",
+      "revenueGrowth": 0.049,
+      "earningsGrowth": 0.074,
+      "returnOnEquity": 0.18242,
+      "forwardPE": 28.367023,
+      "debtToEquity": 230.298
+    }
+  },
+  "DECK": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Deckers Outdoor Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.035,
+      "earningsGrowth": 0.27,
+      "returnOnEquity": 0.44274,
+      "forwardPE": 9.943971,
+      "debtToEquity": 23.24
+    }
+  },
+  "DELL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Dell Technologies Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.577,
+      "earningsGrowth": 2.729,
+      "returnOnEquity": null,
+      "forwardPE": 15.252575,
+      "debtToEquity": null
+    }
+  },
+  "DG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Dollar General Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.052,
+      "earningsGrowth": 0.333,
+      "returnOnEquity": 0.19692,
+      "forwardPE": 15.965876,
+      "debtToEquity": 169.811
+    }
+  },
+  "DGX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Quest Diagnostics Incorporated",
+      "currency": "USD",
+      "revenueGrowth": 0.1,
+      "earningsGrowth": 0.287,
+      "returnOnEquity": 0.15318,
+      "forwardPE": 20.18999,
+      "debtToEquity": 79.654
+    }
+  },
+  "DHI": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "D.R. Horton, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.0,
+      "earningsGrowth": -0.048,
+      "returnOnEquity": 0.12632,
+      "forwardPE": 13.161311,
+      "debtToEquity": 29.451
+    }
+  },
+  "DHR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Danaher Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.083,
+      "earningsGrowth": 0.378,
+      "returnOnEquity": 0.08192,
+      "forwardPE": 24.750587,
+      "debtToEquity": 51.8
+    }
+  },
+  "DIS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Walt Disney Company (The)",
+      "currency": "USD",
+      "revenueGrowth": 0.068,
+      "earningsGrowth": -0.483,
+      "returnOnEquity": 0.0801,
+      "forwardPE": 15.010191,
+      "debtToEquity": 39.404
+    }
+  },
+  "DLR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Digital Realty Trust, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.299,
+      "earningsGrowth": -0.587,
+      "returnOnEquity": 0.02912,
+      "forwardPE": 62.40587,
+      "debtToEquity": 67.944
+    }
+  },
+  "DLTR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Dollar Tree, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.07,
+      "earningsGrowth": 1.972,
+      "returnOnEquity": 0.46032,
+      "forwardPE": 15.842032,
+      "debtToEquity": 223.945
+    }
+  },
+  "DOC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Healthpeak Properties, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.111,
+      "earningsGrowth": 0.682,
+      "returnOnEquity": 0.03039,
+      "forwardPE": 137.5,
+      "debtToEquity": 108.653
+    }
+  },
+  "DOV": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Dover Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.075,
+      "earningsGrowth": 0.129,
+      "returnOnEquity": 0.15202,
+      "forwardPE": 16.948042,
+      "debtToEquity": 42.753
+    }
+  },
+  "DOW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Dow Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.13,
+      "earningsGrowth": 6.75,
+      "returnOnEquity": -0.03243,
+      "forwardPE": 17.818602,
+      "debtToEquity": 107.566
+    }
+  },
+  "DPZ": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Domino's Pizza Inc",
+      "currency": "USD",
+      "revenueGrowth": 0.034,
+      "earningsGrowth": 0.127,
+      "returnOnEquity": null,
+      "forwardPE": 15.200808,
+      "debtToEquity": null
+    }
+  },
+  "DRI": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Darden Restaurants, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.051,
+      "earningsGrowth": -0.067,
+      "returnOnEquity": 0.55431,
+      "forwardPE": 17.134642,
+      "debtToEquity": 415.302
+    }
+  },
+  "DTE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "DTE Energy Company",
+      "currency": "USD",
+      "revenueGrowth": -0.015,
+      "earningsGrowth": 0.224,
+      "returnOnEquity": 0.1103,
+      "forwardPE": 15.861906,
+      "debtToEquity": 229.06
+    }
+  },
+  "DUK": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Duke Energy Corporation (Holdin",
+      "currency": "USD",
+      "revenueGrowth": 0.011,
+      "earningsGrowth": 0.106,
+      "returnOnEquity": 0.09857,
+      "forwardPE": 17.432251,
+      "debtToEquity": 162.155
+    }
+  },
+  "DVA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "DaVita Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.052,
+      "earningsGrowth": 0.558,
+      "returnOnEquity": 0.88475,
+      "forwardPE": 10.711882,
+      "debtToEquity": 1241.986
+    }
+  },
+  "DVN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Devon Energy Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.642,
+      "earningsGrowth": 0.44,
+      "returnOnEquity": 0.11522,
+      "forwardPE": 9.496671,
+      "debtToEquity": 28.488
+    }
+  },
+  "DXCM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "DexCom, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.131,
+      "earningsGrowth": 0.436,
+      "returnOnEquity": 0.38491,
+      "forwardPE": 24.953257,
+      "debtToEquity": 53.346
+    }
+  },
+  "EBAY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "eBay Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.148,
+      "earningsGrowth": 0.55,
+      "returnOnEquity": 0.46611,
+      "forwardPE": 18.081602,
+      "debtToEquity": 153.012
+    }
+  },
+  "ECHO": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "EchoStar Corporation",
+      "currency": "USD",
+      "revenueGrowth": -0.04,
+      "earningsGrowth": null,
+      "returnOnEquity": -0.33428,
+      "forwardPE": 5.795706,
+      "debtToEquity": 123.757
+    }
+  },
+  "ECL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Ecolab Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.097,
+      "earningsGrowth": 0.033,
+      "returnOnEquity": 0.21956,
+      "forwardPE": 30.786613,
+      "debtToEquity": 138.023
+    }
+  },
+  "ED": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Consolidated Edison, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.132,
+      "earningsGrowth": 0.221,
+      "returnOnEquity": 0.08962,
+      "forwardPE": 17.820602,
+      "debtToEquity": 110.113
+    }
+  },
+  "EFX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Equifax, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.096,
+      "earningsGrowth": 0.388,
+      "returnOnEquity": 0.15443,
+      "forwardPE": 19.048235,
+      "debtToEquity": 112.843
+    }
+  },
+  "EG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Everest Group, Ltd.",
+      "currency": "USD",
+      "revenueGrowth": -0.113,
+      "earningsGrowth": -0.115,
+      "returnOnEquity": 0.12572,
+      "forwardPE": 6.627852,
+      "debtToEquity": 23.26
+    }
+  },
+  "EIX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Edison International",
+      "currency": "USD",
+      "revenueGrowth": -0.041,
+      "earningsGrowth": 0.551,
+      "returnOnEquity": 0.19734,
+      "forwardPE": 8.827191,
+      "debtToEquity": 228.042
+    }
+  },
+  "EL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Estee Lauder Companies, Inc. (T",
+      "currency": "USD",
+      "revenueGrowth": 0.063,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.04745,
+      "forwardPE": 27.637896,
+      "debtToEquity": 242.932
+    }
+  },
+  "ELV": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Elevance Health, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.014,
+      "earningsGrowth": 0.179,
+      "returnOnEquity": 0.11483,
+      "forwardPE": 14.556978,
+      "debtToEquity": 68.663
+    }
+  },
+  "EME": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "EMCOR Group, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.198,
+      "earningsGrowth": 0.348,
+      "returnOnEquity": 0.40349,
+      "forwardPE": 17.06563,
+      "debtToEquity": 13.432
+    }
+  },
+  "EMR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Emerson Electric Company",
+      "currency": "USD",
+      "revenueGrowth": 0.07,
+      "earningsGrowth": 0.23,
+      "returnOnEquity": 0.128,
+      "forwardPE": 22.223475,
+      "debtToEquity": 67.677
+    }
+  },
+  "EOG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "EOG Resources, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.587,
+      "earningsGrowth": 1.094,
+      "returnOnEquity": 0.22507,
+      "forwardPE": 10.059296,
+      "debtToEquity": 25.891
+    }
+  },
+  "EQIX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Equinix, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.167,
+      "earningsGrowth": 0.288,
+      "returnOnEquity": 0.10735,
+      "forwardPE": 51.54662,
+      "debtToEquity": 162.217
+    }
+  },
+  "EQT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "EQT Corporation",
+      "currency": "USD",
+      "revenueGrowth": -0.039,
+      "earningsGrowth": -0.74,
+      "returnOnEquity": 0.11078,
+      "forwardPE": 15.355611,
+      "debtToEquity": 19.595
+    }
+  },
+  "ERIE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Erie Indemnity Company",
+      "currency": "USD",
+      "revenueGrowth": 0.028,
+      "earningsGrowth": 0.032,
+      "returnOnEquity": 0.24808,
+      "forwardPE": 18.095646,
+      "debtToEquity": 2.56
+    }
+  },
+  "ES": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Eversource Energy (D/B/A)",
+      "currency": "USD",
+      "revenueGrowth": 0.023,
+      "earningsGrowth": -0.854,
+      "returnOnEquity": 0.09016,
+      "forwardPE": 13.690457,
+      "debtToEquity": 180.7
+    }
+  },
+  "ESS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Essex Property Trust, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.031,
+      "earningsGrowth": -0.718,
+      "returnOnEquity": 0.0771,
+      "forwardPE": 44.50396,
+      "debtToEquity": 122.409
+    }
+  },
+  "ETN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Eaton Corporation, PLC",
+      "currency": "USD",
+      "revenueGrowth": 0.214,
+      "earningsGrowth": -0.159,
+      "returnOnEquity": 0.19684,
+      "forwardPE": 22.46691,
+      "debtToEquity": 105.059
+    }
+  },
+  "ETR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Entergy Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.059,
+      "earningsGrowth": -0.019,
+      "returnOnEquity": 0.10249,
+      "forwardPE": 21.02941,
+      "debtToEquity": 186.77
+    }
+  },
+  "EVRG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Evergy, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.044,
+      "earningsGrowth": 0.23,
+      "returnOnEquity": 0.09254,
+      "forwardPE": 18.50695,
+      "debtToEquity": 160.554
+    }
+  },
+  "EW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Edwards Lifesciences Corporatio",
+      "currency": "USD",
+      "revenueGrowth": 0.136,
+      "earningsGrowth": -0.254,
+      "returnOnEquity": 0.09175,
+      "forwardPE": 26.345367,
+      "debtToEquity": 6.568
+    }
+  },
+  "EXC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Exelon Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.099,
+      "earningsGrowth": -0.002,
+      "returnOnEquity": 0.09711,
+      "forwardPE": 14.648187,
+      "debtToEquity": 177.362
+    }
+  },
+  "EXE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Expand Energy Corporation",
+      "currency": "USD",
+      "revenueGrowth": -0.106,
+      "earningsGrowth": -0.455,
+      "returnOnEquity": 0.14893,
+      "forwardPE": 10.155198,
+      "debtToEquity": 19.207
+    }
+  },
+  "EXPD": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Expeditors International of Was",
+      "currency": "USD",
+      "revenueGrowth": 0.321,
+      "earningsGrowth": 0.515,
+      "returnOnEquity": 0.4267,
+      "forwardPE": 24.215206,
+      "debtToEquity": 26.745
+    }
+  },
+  "EXPE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Expedia Group, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.14,
+      "earningsGrowth": 1.887,
+      "returnOnEquity": 0.89489,
+      "forwardPE": 11.772436,
+      "debtToEquity": 230.271
+    }
+  },
+  "EXR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Extra Space Storage Inc",
+      "currency": "USD",
+      "revenueGrowth": 0.038,
+      "earningsGrowth": 0.06,
+      "returnOnEquity": 0.06953,
+      "forwardPE": 29.847237,
+      "debtToEquity": 101.674
+    }
+  },
+  "F": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Ford Motor Company",
+      "currency": "USD",
+      "revenueGrowth": -0.038,
+      "earningsGrowth": null,
+      "returnOnEquity": -0.18252,
+      "forwardPE": 6.045666,
+      "debtToEquity": 456.708
+    }
+  },
+  "FANG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Diamondback Energy, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.525,
+      "earningsGrowth": 1.795,
+      "returnOnEquity": 0.03493,
+      "forwardPE": 9.83346,
+      "debtToEquity": 28.678
+    }
+  },
+  "FAST": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Fastenal Company",
+      "currency": "USD",
+      "revenueGrowth": 0.155,
+      "earningsGrowth": 0.207,
+      "returnOnEquity": 0.35262,
+      "forwardPE": 36.794205,
+      "debtToEquity": 10.886
+    }
+  },
+  "FCX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Freeport-McMoRan, Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.073,
+      "earningsGrowth": 0.281,
+      "returnOnEquity": 0.14755,
+      "forwardPE": 14.966567,
+      "debtToEquity": 32.149
+    }
+  },
+  "FDS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "FactSet Research Systems Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.063,
+      "earningsGrowth": -0.154,
+      "returnOnEquity": 0.25475,
+      "forwardPE": 15.266614,
+      "debtToEquity": 77.049
+    }
+  },
+  "FDX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "FedEx Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.125,
+      "earningsGrowth": -0.043,
+      "returnOnEquity": 0.14846,
+      "forwardPE": 14.350776,
+      "debtToEquity": 135.697
+    }
+  },
+  "FDXF": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "FedEx Freight Holding Company, ",
+      "currency": "USD",
+      "revenueGrowth": 0.048,
+      "earningsGrowth": -0.611,
+      "returnOnEquity": 0.69093,
+      "forwardPE": 21.368933,
+      "debtToEquity": null
+    }
+  },
+  "FE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "FirstEnergy Corp.",
+      "currency": "USD",
+      "revenueGrowth": 0.088,
+      "earningsGrowth": 0.083,
+      "returnOnEquity": 0.09491,
+      "forwardPE": 15.66079,
+      "debtToEquity": 200.908
+    }
+  },
+  "FERG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Ferguson Enterprises Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.046,
+      "earningsGrowth": 0.069,
+      "returnOnEquity": null,
+      "forwardPE": 17.895372,
+      "debtToEquity": 111.063
+    }
+  },
+  "FFIV": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "F5, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.109,
+      "earningsGrowth": 0.114,
+      "returnOnEquity": 0.1983,
+      "forwardPE": 25.193676,
+      "debtToEquity": 6.546
+    }
+  },
+  "FICO": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Fair Isaac Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.257,
+      "earningsGrowth": 0.412,
+      "returnOnEquity": null,
+      "forwardPE": 16.591007,
+      "debtToEquity": null
+    }
+  },
+  "FIS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Fidelity National Information S",
+      "currency": "USD",
+      "revenueGrowth": 0.291,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.22348,
+      "forwardPE": 5.645391,
+      "debtToEquity": 132.51
+    }
+  },
+  "FISV": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Fiserv, Inc.",
+      "currency": "USD",
+      "revenueGrowth": null,
+      "earningsGrowth": null,
+      "returnOnEquity": null,
+      "forwardPE": 6.256015,
+      "debtToEquity": null
+    }
+  },
+  "FITB": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Fifth Third Bancorp",
+      "currency": "USD",
+      "revenueGrowth": 0.5,
+      "earningsGrowth": -0.011,
+      "returnOnEquity": 0.09419,
+      "forwardPE": 10.706383,
+      "debtToEquity": null
+    }
+  },
+  "FIX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Comfort Systems USA, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.537,
+      "earningsGrowth": 0.686,
+      "returnOnEquity": 0.58608,
+      "forwardPE": 19.054394,
+      "debtToEquity": 11.227
+    }
+  },
+  "FLEX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Flex Ltd.",
+      "currency": "USD",
+      "revenueGrowth": 0.206,
+      "earningsGrowth": 0.52,
+      "returnOnEquity": 0.18378,
+      "forwardPE": 10.372629,
+      "debtToEquity": 107.818
+    }
+  },
+  "FOX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Fox Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.281,
+      "earningsGrowth": 0.031,
+      "returnOnEquity": 0.14291,
+      "forwardPE": 9.699837,
+      "debtToEquity": 64.06
+    }
+  },
+  "FOXA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Fox Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.281,
+      "earningsGrowth": 0.031,
+      "returnOnEquity": 0.14291,
+      "forwardPE": 11.367379,
+      "debtToEquity": 64.06
+    }
+  },
+  "FRT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Federal Realty Investment Trust",
+      "currency": "USD",
+      "revenueGrowth": 0.072,
+      "earningsGrowth": -0.456,
+      "returnOnEquity": 0.12551,
+      "forwardPE": 33.875492,
+      "debtToEquity": 134.114
+    }
+  },
+  "FSLR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "First Solar, Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.037,
+      "earningsGrowth": 0.233,
+      "returnOnEquity": 0.18509,
+      "forwardPE": 7.319113,
+      "debtToEquity": 1.88
+    }
+  },
+  "FTNT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Fortinet, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.256,
+      "earningsGrowth": 0.439,
+      "returnOnEquity": 1.17442,
+      "forwardPE": 47.47298,
+      "debtToEquity": 36.194
+    }
+  },
+  "FTV": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Fortive Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.079,
+      "earningsGrowth": 0.04,
+      "returnOnEquity": 0.07318,
+      "forwardPE": 18.542912,
+      "debtToEquity": 59.283
+    }
+  },
+  "GD": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "General Dynamics Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.081,
+      "earningsGrowth": 0.134,
+      "returnOnEquity": 0.17803,
+      "forwardPE": 18.76016,
+      "debtToEquity": 35.335
+    }
+  },
+  "GDDY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "GoDaddy Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.066,
+      "earningsGrowth": 0.298,
+      "returnOnEquity": 4.42861,
+      "forwardPE": 10.228066,
+      "debtToEquity": 57334.33
+    }
+  },
+  "GE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "GE Aerospace",
+      "currency": "USD",
+      "revenueGrowth": 0.159,
+      "earningsGrowth": 0.089,
+      "returnOnEquity": 0.50165,
+      "forwardPE": 30.680231,
+      "debtToEquity": 115.989
+    }
+  },
+  "GEHC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "GE HealthCare Technologies Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.058,
+      "earningsGrowth": 0.168,
+      "returnOnEquity": 0.19376,
+      "forwardPE": 13.200582,
+      "debtToEquity": 93.965
+    }
+  },
+  "GEN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Gen Digital Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.063,
+      "earningsGrowth": 0.64,
+      "returnOnEquity": 0.41944,
+      "forwardPE": 7.497883,
+      "debtToEquity": 307.831
+    }
+  },
+  "GEV": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "GE Vernova Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.219,
+      "earningsGrowth": 0.328,
+      "returnOnEquity": 0.82577,
+      "forwardPE": 32.35245,
+      "debtToEquity": 28.364
+    }
+  },
+  "GILD": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Gilead Sciences, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.102,
+      "earningsGrowth": null,
+      "returnOnEquity": -0.2068,
+      "forwardPE": 15.644236,
+      "debtToEquity": 223.465
+    }
+  },
+  "GIS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "General Mills, Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.028,
+      "earningsGrowth": -0.667,
+      "returnOnEquity": -0.10495,
+      "forwardPE": 10.909633,
+      "debtToEquity": 182.422
+    }
+  },
+  "GL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Globe Life Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.055,
+      "earningsGrowth": -0.023,
+      "returnOnEquity": null,
+      "forwardPE": 9.41123,
+      "debtToEquity": 55.675
+    }
+  },
+  "GLW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Corning Incorporated",
+      "currency": "USD",
+      "revenueGrowth": 0.166,
+      "earningsGrowth": 0.185,
+      "returnOnEquity": 0.16813,
+      "forwardPE": 28.139376,
+      "debtToEquity": 71.448
+    }
+  },
+  "GM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "General Motors Company",
+      "currency": "USD",
+      "revenueGrowth": 0.029,
+      "earningsGrowth": 1.763,
+      "returnOnEquity": 0.06282,
+      "forwardPE": 5.127107,
+      "debtToEquity": 202.592
+    }
+  },
+  "GNRC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Generac Holdlings Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.106,
+      "earningsGrowth": 0.92,
+      "returnOnEquity": 0.09491,
+      "forwardPE": 14.411574,
+      "debtToEquity": 49.003
+    }
+  },
+  "GOOG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Alphabet Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.242,
+      "earningsGrowth": 2.94,
+      "returnOnEquity": 0.48676,
+      "forwardPE": 20.65808,
+      "debtToEquity": 18.859
+    }
+  },
+  "GOOGL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Alphabet Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.242,
+      "earningsGrowth": 2.94,
+      "returnOnEquity": 0.48676,
+      "forwardPE": 20.84885,
+      "debtToEquity": 18.859
+    }
+  },
+  "GPC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Genuine Parts Company",
+      "currency": "USD",
+      "revenueGrowth": 0.042,
+      "earningsGrowth": 0.0,
+      "returnOnEquity": 0.00656,
+      "forwardPE": 15.072655,
+      "debtToEquity": 146.475
+    }
+  },
+  "GPN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Global Payments Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.686,
+      "earningsGrowth": -0.952,
+      "returnOnEquity": 0.02428,
+      "forwardPE": 5.143604,
+      "debtToEquity": 98.273
+    }
+  },
+  "GRMN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Garmin Ltd.",
+      "currency": "USD",
+      "revenueGrowth": 0.114,
+      "earningsGrowth": 0.353,
+      "returnOnEquity": 0.21887,
+      "forwardPE": 26.381445,
+      "debtToEquity": 2.513
+    }
+  },
+  "GS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Goldman Sachs Group, Inc. (The)",
+      "currency": "USD",
+      "revenueGrowth": 0.233,
+      "earningsGrowth": 0.388,
+      "returnOnEquity": 0.17753,
+      "forwardPE": 11.818899,
+      "debtToEquity": 671.2
+    }
+  },
+  "GWW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "W.W. Grainger, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.103,
+      "earningsGrowth": 0.205,
+      "returnOnEquity": 0.46091,
+      "forwardPE": 26.436071,
+      "debtToEquity": 61.977
+    }
+  },
+  "HAL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Halliburton Company",
+      "currency": "USD",
+      "revenueGrowth": 0.018,
+      "earningsGrowth": 24.0,
+      "returnOnEquity": 0.18779,
+      "forwardPE": 11.848051,
+      "debtToEquity": 73.452
+    }
+  },
+  "HAS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Hasbro, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.15,
+      "earningsGrowth": 0.689,
+      "returnOnEquity": 1.39781,
+      "forwardPE": 17.24434,
+      "debtToEquity": 374.153
+    }
+  },
+  "HBAN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Huntington Bancshares Incorpora",
+      "currency": "USD",
+      "revenueGrowth": 0.324,
+      "earningsGrowth": -0.195,
+      "returnOnEquity": 0.09192,
+      "forwardPE": 8.978618,
+      "debtToEquity": null
+    }
+  },
+  "HCA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "HCA Healthcare, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.087,
+      "earningsGrowth": 0.116,
+      "returnOnEquity": null,
+      "forwardPE": 14.661224,
+      "debtToEquity": null
+    }
+  },
+  "HD": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Home Depot, Inc. (The)",
+      "currency": "USD",
+      "revenueGrowth": 0.057,
+      "earningsGrowth": 0.046,
+      "returnOnEquity": 1.04296,
+      "forwardPE": 20.00249,
+      "debtToEquity": 380.261
+    }
+  },
+  "HIG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "The Hartford Insurance Group, I",
+      "currency": "USD",
+      "revenueGrowth": 0.081,
+      "earningsGrowth": 0.361,
+      "returnOnEquity": 0.22061,
+      "forwardPE": 9.921591,
+      "debtToEquity": 22.33
+    }
+  },
+  "HII": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Huntington Ingalls Industries, ",
+      "currency": "USD",
+      "revenueGrowth": 0.109,
+      "earningsGrowth": 0.365,
+      "returnOnEquity": 0.12968,
+      "forwardPE": 13.043986,
+      "debtToEquity": 55.252
+    }
+  },
+  "HLT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Hilton Worldwide Holdings Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.025,
+      "earningsGrowth": 0.141,
+      "returnOnEquity": null,
+      "forwardPE": 33.549816,
+      "debtToEquity": null
+    }
+  },
+  "HON": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Honeywell International Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.013,
+      "earningsGrowth": -0.636,
+      "returnOnEquity": 0.44387,
+      "forwardPE": 22.466259,
+      "debtToEquity": 76.101
+    }
+  },
+  "HONA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Honeywell Aerospace Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.054,
+      "earningsGrowth": -0.709,
+      "returnOnEquity": null,
+      "forwardPE": 18.3162,
+      "debtToEquity": null
+    }
+  },
+  "HOOD": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Robinhood Markets, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.323,
+      "earningsGrowth": 0.476,
+      "returnOnEquity": 0.23619,
+      "forwardPE": 27.834953,
+      "debtToEquity": 240.279
+    }
+  },
+  "HPE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Hewlett Packard Enterprise Comp",
+      "currency": "USD",
+      "revenueGrowth": 0.337,
+      "earningsGrowth": 4.102,
+      "returnOnEquity": 0.10936,
+      "forwardPE": 12.039212,
+      "debtToEquity": 76.464
+    }
+  },
+  "HPQ": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "HP Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.125,
+      "earningsGrowth": -0.113,
+      "returnOnEquity": null,
+      "forwardPE": 10.667444,
+      "debtToEquity": null
+    }
+  },
+  "HRL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Hormel Foods Corporation",
+      "currency": "USD",
+      "revenueGrowth": -0.024,
+      "earningsGrowth": -0.672,
+      "returnOnEquity": 0.04293,
+      "forwardPE": 13.441495,
+      "debtToEquity": 36.326
+    }
+  },
+  "HSIC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Henry Schein, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.067,
+      "earningsGrowth": 0.171,
+      "returnOnEquity": 0.08855,
+      "forwardPE": 14.171928,
+      "debtToEquity": 80.733
+    }
+  },
+  "HST": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Host Hotels & Resorts, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.036,
+      "earningsGrowth": 0.084,
+      "returnOnEquity": 0.15558,
+      "forwardPE": 23.555418,
+      "debtToEquity": 85.298
+    }
+  },
+  "HSY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "The Hershey Company",
+      "currency": "USD",
+      "revenueGrowth": 0.066,
+      "earningsGrowth": 6.31,
+      "returnOnEquity": 0.32809,
+      "forwardPE": 17.23649,
+      "debtToEquity": 129.821
+    }
+  },
+  "HUBB": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Hubbell Inc",
+      "currency": "USD",
+      "revenueGrowth": 0.153,
+      "earningsGrowth": -0.009,
+      "returnOnEquity": 0.24444,
+      "forwardPE": 19.443071,
+      "debtToEquity": 141.642
+    }
+  },
+  "HUM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Humana Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.262,
+      "earningsGrowth": 0.271,
+      "returnOnEquity": 0.06893,
+      "forwardPE": 24.699327,
+      "debtToEquity": 76.485
+    }
+  },
+  "HWM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Howmet Aerospace Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.241,
+      "earningsGrowth": 0.33,
+      "returnOnEquity": 0.34732,
+      "forwardPE": 28.585707,
+      "debtToEquity": 81.368
+    }
+  },
+  "IBKR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Interactive Brokers Group, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.135,
+      "earningsGrowth": 0.169,
+      "returnOnEquity": 0.23674,
+      "forwardPE": 24.131805,
+      "debtToEquity": 151.52
+    }
+  },
+  "IBM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "International Business Machines",
+      "currency": "USD",
+      "revenueGrowth": 0.047,
+      "earningsGrowth": 0.25,
+      "returnOnEquity": 0.34769,
+      "forwardPE": 19.157873,
+      "debtToEquity": 185.439
+    }
+  },
+  "ICE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Intercontinental Exchange Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.048,
+      "earningsGrowth": 0.142,
+      "returnOnEquity": 0.14094,
+      "forwardPE": 18.317377,
+      "debtToEquity": 69.226
+    }
+  },
+  "IDXX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "IDEXX Laboratories, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.097,
+      "earningsGrowth": 0.176,
+      "returnOnEquity": 0.74211,
+      "forwardPE": 33.46865,
+      "debtToEquity": 67.971
+    }
+  },
+  "IEX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "IDEX Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.064,
+      "earningsGrowth": 0.109,
+      "returnOnEquity": 0.12955,
+      "forwardPE": 23.772554,
+      "debtToEquity": 47.06
+    }
+  },
+  "IFF": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "International Flavors & Fragran",
+      "currency": "USD",
+      "revenueGrowth": 0.018,
+      "earningsGrowth": -0.916,
+      "returnOnEquity": -0.05548,
+      "forwardPE": 23.575693,
+      "debtToEquity": 44.821
+    }
+  },
+  "ILMN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Illumina, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.094,
+      "earningsGrowth": -0.094,
+      "returnOnEquity": 0.32339,
+      "forwardPE": 43.966267,
+      "debtToEquity": 89.042
+    }
+  },
+  "INCY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Incyte Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.377,
+      "earningsGrowth": 0.377,
+      "returnOnEquity": 0.30667,
+      "forwardPE": 13.390517,
+      "debtToEquity": 0.603
+    }
+  },
+  "INTC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Intel Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.254,
+      "earningsGrowth": null,
+      "returnOnEquity": -0.10715,
+      "forwardPE": 41.1682,
+      "debtToEquity": 48.997
+    }
+  },
+  "INTU": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Intuit Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.137,
+      "earningsGrowth": -0.014,
+      "returnOnEquity": 0.23596,
+      "forwardPE": 12.744667,
+      "debtToEquity": 44.34
+    }
+  },
+  "INVH": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Invitation Homes Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.101,
+      "earningsGrowth": 0.605,
+      "returnOnEquity": 0.07054,
+      "forwardPE": 37.656906,
+      "debtToEquity": 94.425
+    }
+  },
+  "IP": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "International Paper Company",
+      "currency": "USD",
+      "revenueGrowth": -0.022,
+      "earningsGrowth": null,
+      "returnOnEquity": -0.16479,
+      "forwardPE": 10.750842,
+      "debtToEquity": 68.509
+    }
+  },
+  "IQV": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "IQVIA Holdings, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.087,
+      "earningsGrowth": -0.006,
+      "returnOnEquity": 0.22818,
+      "forwardPE": 19.407398,
+      "debtToEquity": 257.975
+    }
+  },
+  "IR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Ingersoll Rand Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.085,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.0947,
+      "forwardPE": 18.802458,
+      "debtToEquity": 47.903
+    }
+  },
+  "IRM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Iron Mountain Incorporated (Del",
+      "currency": "USD",
+      "revenueGrowth": 0.185,
+      "earningsGrowth": null,
+      "returnOnEquity": null,
+      "forwardPE": 40.282814,
+      "debtToEquity": null
+    }
+  },
+  "ISRG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Intuitive Surgical, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.217,
+      "earningsGrowth": -0.236,
+      "returnOnEquity": 0.17932,
+      "forwardPE": 36.386703,
+      "debtToEquity": null
+    }
+  },
+  "IT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Gartner, Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.006,
+      "earningsGrowth": 0.331,
+      "returnOnEquity": 1.13581,
+      "forwardPE": 14.053752,
+      "debtToEquity": null
+    }
+  },
+  "ITW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Illinois Tool Works Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.061,
+      "earningsGrowth": 0.101,
+      "returnOnEquity": 1.04618,
+      "forwardPE": 22.338806,
+      "debtToEquity": 334.853
+    }
+  },
+  "IVZ": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Invesco Ltd",
+      "currency": "USD",
+      "revenueGrowth": 0.205,
+      "earningsGrowth": null,
+      "returnOnEquity": -0.00573,
+      "forwardPE": 8.625884,
+      "debtToEquity": 12.056
+    }
+  },
+  "J": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Jacobs Solutions Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.345,
+      "earningsGrowth": -0.254,
+      "returnOnEquity": 0.07998,
+      "forwardPE": 17.610973,
+      "debtToEquity": 124.734
+    }
+  },
+  "JBHT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "J.B. Hunt Transport Services, I",
+      "currency": "USD",
+      "revenueGrowth": 0.204,
+      "earningsGrowth": 0.034,
+      "returnOnEquity": 0.18765,
+      "forwardPE": 22.958372,
+      "debtToEquity": 39.787
+    }
+  },
+  "JBL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Jabil Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.286,
+      "earningsGrowth": 0.888,
+      "returnOnEquity": 0.66369,
+      "forwardPE": 12.358755,
+      "debtToEquity": 268.336
+    }
+  },
+  "JCI": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Johnson Controls International ",
+      "currency": "USD",
+      "revenueGrowth": 0.093,
+      "earningsGrowth": 0.153,
+      "returnOnEquity": 0.14332,
+      "forwardPE": 23.49094,
+      "debtToEquity": 70.107
+    }
+  },
+  "JKHY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Jack Henry & Associates, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.047,
+      "earningsGrowth": -0.104,
+      "returnOnEquity": 0.2404,
+      "forwardPE": 20.568502,
+      "debtToEquity": 3.793
+    }
+  },
+  "JNJ": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Johnson & Johnson",
+      "currency": "USD",
+      "revenueGrowth": 0.059,
+      "earningsGrowth": -0.959,
+      "returnOnEquity": 0.20018,
+      "forwardPE": 22.707983,
+      "debtToEquity": 54.767
+    }
+  },
+  "JPM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "JP Morgan Chase & Co.",
+      "currency": "USD",
+      "revenueGrowth": 0.102,
+      "earningsGrowth": 0.099,
+      "returnOnEquity": 0.18013,
+      "forwardPE": 12.987226,
+      "debtToEquity": null
+    }
+  },
+  "KDP": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Keurig Dr Pepper Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.756,
+      "earningsGrowth": -0.9,
+      "returnOnEquity": 0.051,
+      "forwardPE": 13.718897,
+      "debtToEquity": 99.649
+    }
+  },
+  "KEY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "KeyCorp",
+      "currency": "USD",
+      "revenueGrowth": 0.115,
+      "earningsGrowth": 0.244,
+      "returnOnEquity": 0.11174,
+      "forwardPE": 9.718988,
+      "debtToEquity": null
+    }
+  },
+  "KEYS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Keysight Technologies Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.365,
+      "earningsGrowth": 1.091,
+      "returnOnEquity": 0.20897,
+      "forwardPE": 22.589954,
+      "debtToEquity": 42.094
+    }
+  },
+  "KHC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "The Kraft Heinz Company",
+      "currency": "USD",
+      "revenueGrowth": -0.014,
+      "earningsGrowth": null,
+      "returnOnEquity": -0.0876,
+      "forwardPE": 11.942483,
+      "debtToEquity": 52.591
+    }
+  },
+  "KIM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Kimco Realty Corporation (HC)",
+      "currency": "USD",
+      "revenueGrowth": 0.049,
+      "earningsGrowth": -0.058,
+      "returnOnEquity": 0.05806,
+      "forwardPE": 26.31755,
+      "debtToEquity": 84.993
+    }
+  },
+  "KKR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "KKR & Co. Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.078,
+      "earningsGrowth": 0.4,
+      "returnOnEquity": 0.0728,
+      "forwardPE": 12.654405,
+      "debtToEquity": 69.812
+    }
+  },
+  "KLAC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "KLA Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.152,
+      "earningsGrowth": 0.138,
+      "returnOnEquity": 0.87496,
+      "forwardPE": 21.602608,
+      "debtToEquity": 96.88
+    }
+  },
+  "KMB": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Kimberly-Clark Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.006,
+      "earningsGrowth": -0.323,
+      "returnOnEquity": 1.04913,
+      "forwardPE": 14.88045,
+      "debtToEquity": 348.933
+    }
+  },
+  "KMI": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Kinder Morgan, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.093,
+      "earningsGrowth": 0.216,
+      "returnOnEquity": 0.11428,
+      "forwardPE": 21.880184,
+      "debtToEquity": 101.736
+    }
+  },
+  "KO": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Coca-Cola Company (The)",
+      "currency": "USD",
+      "revenueGrowth": 0.067,
+      "earningsGrowth": 0.169,
+      "returnOnEquity": 0.42054,
+      "forwardPE": 26.30623,
+      "debtToEquity": 115.519
+    }
+  },
+  "KR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Kroger Company (The)",
+      "currency": "USD",
+      "revenueGrowth": 0.02,
+      "earningsGrowth": 0.153,
+      "returnOnEquity": 0.14442,
+      "forwardPE": 12.189289,
+      "debtToEquity": 413.24
+    }
+  },
+  "KVUE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Kenvue Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.03,
+      "earningsGrowth": 0.085,
+      "returnOnEquity": 0.15581,
+      "forwardPE": 15.788242,
+      "debtToEquity": 81.617
+    }
+  },
+  "L": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Loews Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.039,
+      "earningsGrowth": 0.156,
+      "returnOnEquity": 0.09313,
+      "forwardPE": 38.624138,
+      "debtToEquity": 44.609
+    }
+  },
+  "LDOS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Leidos Holdings, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.072,
+      "earningsGrowth": -0.067,
+      "returnOnEquity": 0.27781,
+      "forwardPE": 10.844445,
+      "debtToEquity": 123.276
+    }
+  },
+  "LEN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Lennar Corporation",
+      "currency": "USD",
+      "revenueGrowth": -0.087,
+      "earningsGrowth": -0.482,
+      "returnOnEquity": 0.05962,
+      "forwardPE": 16.263618,
+      "debtToEquity": 28.201
+    }
+  },
+  "LH": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Labcorp Holdings Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.058,
+      "earningsGrowth": 0.282,
+      "returnOnEquity": 0.11728,
+      "forwardPE": 16.63443,
+      "debtToEquity": 79.124
+    }
+  },
+  "LHX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "L3Harris Technologies, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.084,
+      "earningsGrowth": 0.283,
+      "returnOnEquity": 0.0934,
+      "forwardPE": 18.755367,
+      "debtToEquity": 52.753
+    }
+  },
+  "LII": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Lennox International, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.03,
+      "earningsGrowth": 0.001,
+      "returnOnEquity": 0.71757,
+      "forwardPE": 14.573003,
+      "debtToEquity": 156.082
+    }
+  },
+  "LIN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Linde plc",
+      "currency": "USD",
+      "revenueGrowth": 0.093,
+      "earningsGrowth": 0.113,
+      "returnOnEquity": 0.18401,
+      "forwardPE": 25.994001,
+      "debtToEquity": 68.947
+    }
+  },
+  "LITE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Lumentum Holdings Inc.",
+      "currency": "USD",
+      "revenueGrowth": 1.093,
+      "earningsGrowth": null,
+      "returnOnEquity": -2.40027,
+      "forwardPE": 21.052658,
+      "debtToEquity": 35.987
+    }
+  },
+  "LLY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Eli Lilly and Company",
+      "currency": "USD",
+      "revenueGrowth": 0.477,
+      "earningsGrowth": 0.262,
+      "returnOnEquity": 1.02286,
+      "forwardPE": 26.968159,
+      "debtToEquity": 162.071
+    }
+  },
+  "LMT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Lockheed Martin Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.113,
+      "earningsGrowth": 0.147,
+      "returnOnEquity": 0.8019,
+      "forwardPE": 18.235085,
+      "debtToEquity": 203.697
+    }
+  },
+  "LNT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Alliant Energy Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.01,
+      "earningsGrowth": -0.04,
+      "returnOnEquity": 0.11135,
+      "forwardPE": 18.935522,
+      "debtToEquity": 160.951
+    }
+  },
+  "LOW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Lowe's Companies, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.083,
+      "earningsGrowth": 0.0,
+      "returnOnEquity": null,
+      "forwardPE": 15.283076,
+      "debtToEquity": null
+    }
+  },
+  "LRCX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Lam Research Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.544,
+      "earningsGrowth": 0.766,
+      "returnOnEquity": 0.7012,
+      "forwardPE": 18.933426,
+      "debtToEquity": 26.857
+    }
+  },
+  "LULU": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "lululemon athletica inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.043,
+      "earningsGrowth": -0.059,
+      "returnOnEquity": 0.30898,
+      "forwardPE": 11.451777,
+      "debtToEquity": 44.689
+    }
+  },
+  "LUV": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Southwest Airlines Company",
+      "currency": "USD",
+      "revenueGrowth": 0.212,
+      "earningsGrowth": 4.5,
+      "returnOnEquity": 0.13942,
+      "forwardPE": 10.071453,
+      "debtToEquity": 93.751
+    }
+  },
+  "LVS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Las Vegas Sands Corp.",
+      "currency": "USD",
+      "revenueGrowth": -0.035,
+      "earningsGrowth": -0.22,
+      "returnOnEquity": 2.07078,
+      "forwardPE": 11.236415,
+      "debtToEquity": null
+    }
+  },
+  "LYB": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "LyondellBasell Industries NV",
+      "currency": "USD",
+      "revenueGrowth": 0.198,
+      "earningsGrowth": 3.96,
+      "returnOnEquity": -0.02269,
+      "forwardPE": 10.482328,
+      "debtToEquity": 132.759
+    }
+  },
+  "LYV": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Live Nation Entertainment, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.094,
+      "earningsGrowth": 1.562,
+      "returnOnEquity": 0.17677,
+      "forwardPE": 91.20117,
+      "debtToEquity": 620.214
+    }
+  },
+  "MA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Mastercard Incorporated",
+      "currency": "USD",
+      "revenueGrowth": 0.141,
+      "earningsGrowth": 0.221,
+      "returnOnEquity": 2.41202,
+      "forwardPE": 27.031454,
+      "debtToEquity": 439.583
+    }
+  },
+  "MAA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Mid-America Apartment Communiti",
+      "currency": "USD",
+      "revenueGrowth": 0.01,
+      "earningsGrowth": 0.137,
+      "returnOnEquity": 0.0705,
+      "forwardPE": 36.52308,
+      "debtToEquity": 102.377
+    }
+  },
+  "MAR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Marriott International",
+      "currency": "USD",
+      "revenueGrowth": 0.111,
+      "earningsGrowth": 0.043,
+      "returnOnEquity": null,
+      "forwardPE": 29.688442,
+      "debtToEquity": null
+    }
+  },
+  "MAS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Masco Corporation",
+      "currency": "USD",
+      "revenueGrowth": -0.029,
+      "earningsGrowth": 0.245,
+      "returnOnEquity": 58.625,
+      "forwardPE": 16.529915,
+      "debtToEquity": null
+    }
+  },
+  "MCD": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "McDonald's Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.037,
+      "earningsGrowth": 0.057,
+      "returnOnEquity": null,
+      "forwardPE": 18.080627,
+      "debtToEquity": null
+    }
+  },
+  "MCHP": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Microchip Technology Incorporat",
+      "currency": "USD",
+      "revenueGrowth": 0.38,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.0719,
+      "forwardPE": 16.100801,
+      "debtToEquity": 83.688
+    }
+  },
+  "MCK": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "McKesson Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.077,
+      "earningsGrowth": -0.176,
+      "returnOnEquity": null,
+      "forwardPE": 19.76598,
+      "debtToEquity": null
+    }
+  },
+  "MCO": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Moody's Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.008,
+      "earningsGrowth": 0.178,
+      "returnOnEquity": 0.76741,
+      "forwardPE": 25.87339,
+      "debtToEquity": 223.271
+    }
+  },
+  "MDLZ": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Mondelez International, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.041,
+      "earningsGrowth": 1.449,
+      "returnOnEquity": 0.1334,
+      "forwardPE": 18.994257,
+      "debtToEquity": 82.643
+    }
+  },
+  "MDT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Medtronic plc.",
+      "currency": "USD",
+      "revenueGrowth": 0.137,
+      "earningsGrowth": 0.407,
+      "returnOnEquity": 0.10648,
+      "forwardPE": 14.893687,
+      "debtToEquity": 55.365
+    }
+  },
+  "MET": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "MetLife, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.105,
+      "earningsGrowth": 0.058,
+      "returnOnEquity": 0.13094,
+      "forwardPE": 8.852015,
+      "debtToEquity": 179.933
+    }
+  },
+  "META": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Meta Platforms, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.261,
+      "earningsGrowth": 2.648,
+      "returnOnEquity": 0.32264,
+      "forwardPE": 18.33438,
+      "debtToEquity": 42.161
+    }
+  },
+  "MGM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "MGM Resorts International",
+      "currency": "USD",
+      "revenueGrowth": 0.01,
+      "earningsGrowth": 5.194,
+      "returnOnEquity": 0.18925,
+      "forwardPE": 15.887665,
+      "debtToEquity": 893.311
+    }
+  },
+  "MKC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "McCormick & Company, Incorporat",
+      "currency": "USD",
+      "revenueGrowth": 0.174,
+      "earningsGrowth": -0.571,
+      "returnOnEquity": 0.22623,
+      "forwardPE": 14.937651,
+      "debtToEquity": 66.141
+    }
+  },
+  "MLM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Martin Marietta Materials, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.21,
+      "earningsGrowth": -0.232,
+      "returnOnEquity": 0.08894,
+      "forwardPE": 23.929255,
+      "debtToEquity": 54.945
+    }
+  },
+  "MMM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "3M Company",
+      "currency": "USD",
+      "revenueGrowth": 0.01,
+      "earningsGrowth": 0.697,
+      "returnOnEquity": 0.7297,
+      "forwardPE": 17.511892,
+      "debtToEquity": 303.502
+    }
+  },
+  "MNST": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Monster Beverage Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.202,
+      "earningsGrowth": 0.18,
+      "returnOnEquity": 0.25704,
+      "forwardPE": 35.334255,
+      "debtToEquity": 0.992
+    }
+  },
+  "MO": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Altria Group, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.012,
+      "earningsGrowth": -0.027,
+      "returnOnEquity": null,
+      "forwardPE": 12.639754,
+      "debtToEquity": null
+    }
+  },
+  "MOS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Mosaic Company (The)",
+      "currency": "USD",
+      "revenueGrowth": -0.06,
+      "earningsGrowth": null,
+      "returnOnEquity": -0.05073,
+      "forwardPE": 11.713954,
+      "debtToEquity": 52.249
+    }
+  },
+  "MPC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Marathon Petroleum Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.537,
+      "earningsGrowth": 3.48,
+      "returnOnEquity": 0.42099,
+      "forwardPE": 7.824035,
+      "debtToEquity": 133.328
+    }
+  },
+  "MPWR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Monolithic Power Systems, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.476,
+      "earningsGrowth": 0.858,
+      "returnOnEquity": 0.21979,
+      "forwardPE": 32.324986,
+      "debtToEquity": 0.486
+    }
+  },
+  "MRK": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Merck & Company, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.051,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.06961,
+      "forwardPE": 15.685077,
+      "debtToEquity": 128.408
+    }
+  },
+  "MRNA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Moderna, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.021,
+      "earningsGrowth": null,
+      "returnOnEquity": -0.38998,
+      "forwardPE": -43.79802,
+      "debtToEquity": 19.036
+    }
+  },
+  "MRSH": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Marsh",
+      "currency": "USD",
+      "revenueGrowth": 0.081,
+      "earningsGrowth": 0.119,
+      "returnOnEquity": 0.27242,
+      "forwardPE": 17.23533,
+      "debtToEquity": 149.779
+    }
+  },
+  "MRVL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Marvell Technology, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.365,
+      "earningsGrowth": 0.5,
+      "returnOnEquity": 0.16523,
+      "forwardPE": 31.178707,
+      "debtToEquity": 28.525
+    }
+  },
+  "MS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Morgan Stanley",
+      "currency": "USD",
+      "revenueGrowth": 0.108,
+      "earningsGrowth": 0.082,
+      "returnOnEquity": null,
+      "forwardPE": 13.162218,
+      "debtToEquity": 517.282
+    }
+  },
+  "MSCI": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "MSCI Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.124,
+      "earningsGrowth": 0.144,
+      "returnOnEquity": null,
+      "forwardPE": 27.491823,
+      "debtToEquity": null
+    }
+  },
+  "MSFT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Microsoft Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.177,
+      "earningsGrowth": 0.317,
+      "returnOnEquity": 0.34039,
+      "forwardPE": 22.128946,
+      "debtToEquity": 29.118
+    }
+  },
+  "MSI": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Motorola Solutions, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.133,
+      "earningsGrowth": 0.095,
+      "returnOnEquity": 0.91567,
+      "forwardPE": 24.797382,
+      "debtToEquity": 357.85
+    }
+  },
+  "MTB": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "M&T Bank Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.005,
+      "earningsGrowth": 0.046,
+      "returnOnEquity": 0.10603,
+      "forwardPE": 10.513848,
+      "debtToEquity": null
+    }
+  },
+  "MTD": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Mettler-Toledo International, I",
+      "currency": "USD",
+      "revenueGrowth": 0.045,
+      "earningsGrowth": 0.183,
+      "returnOnEquity": null,
+      "forwardPE": 32.271896,
+      "debtToEquity": 16668.447
+    }
+  },
+  "MU": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Micron Technology, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 3.793,
+      "earningsGrowth": 10.595,
+      "returnOnEquity": 0.8826,
+      "forwardPE": 4.241548,
+      "debtToEquity": 3.743
+    }
+  },
+  "NCLH": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Norwegian Cruise Line Holdings ",
+      "currency": "USD",
+      "revenueGrowth": 0.049,
+      "earningsGrowth": 6.163,
+      "returnOnEquity": 0.3673,
+      "forwardPE": 10.225711,
+      "debtToEquity": 621.051
+    }
+  },
+  "NDAQ": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Nasdaq, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.126,
+      "earningsGrowth": 0.315,
+      "returnOnEquity": 0.17334,
+      "forwardPE": 21.633251,
+      "debtToEquity": 77.439
+    }
+  },
+  "NDSN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Nordson Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.103,
+      "earningsGrowth": 0.23,
+      "returnOnEquity": 0.17763,
+      "forwardPE": 24.558535,
+      "debtToEquity": 55.619
+    }
+  },
+  "NEE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "NextEra Energy, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.016,
+      "earningsGrowth": 0.932,
+      "returnOnEquity": 0.14064,
+      "forwardPE": 18.751526,
+      "debtToEquity": 153.254
+    }
+  },
+  "NEM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Newmont Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.152,
+      "earningsGrowth": 0.407,
+      "returnOnEquity": 0.27259,
+      "forwardPE": 10.758958,
+      "debtToEquity": 15.576
+    }
+  },
+  "NFLX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Netflix, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.118,
+      "earningsGrowth": 0.475,
+      "returnOnEquity": 0.53463,
+      "forwardPE": 17.47055,
+      "debtToEquity": 59.857
+    }
+  },
+  "NI": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "NiSource Inc",
+      "currency": "USD",
+      "revenueGrowth": 0.046,
+      "earningsGrowth": -0.584,
+      "returnOnEquity": 0.08549,
+      "forwardPE": 19.276852,
+      "debtToEquity": 146.649
+    }
+  },
+  "NKE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Nike, Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.043,
+      "earningsGrowth": -0.021,
+      "returnOnEquity": 0.21563,
+      "forwardPE": 23.582073,
+      "debtToEquity": 73.095
+    }
+  },
+  "NOC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Northrop Grumman Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.067,
+      "earningsGrowth": 0.029,
+      "returnOnEquity": 0.26074,
+      "forwardPE": 18.376776,
+      "debtToEquity": 93.127
+    }
+  },
+  "NOW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "ServiceNow, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.24,
+      "earningsGrowth": -0.219,
+      "returnOnEquity": 0.14244,
+      "forwardPE": 31.78145,
+      "debtToEquity": 67.538
+    }
+  },
+  "NRG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "NRG Energy, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.11,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.23772,
+      "forwardPE": 8.53573,
+      "debtToEquity": 483.357
+    }
+  },
+  "NSC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Norfolk Southern Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.136,
+      "earningsGrowth": 0.067,
+      "returnOnEquity": 0.16843,
+      "forwardPE": 22.814493,
+      "debtToEquity": 102.493
+    }
+  },
+  "NTAP": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "NetApp, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.299,
+      "earningsGrowth": 0.635,
+      "returnOnEquity": 1.14818,
+      "forwardPE": 19.315722,
+      "debtToEquity": 169.498
+    }
+  },
+  "NTRS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Northern Trust Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.121,
+      "earningsGrowth": 0.485,
+      "returnOnEquity": 0.1844,
+      "forwardPE": 12.878921,
+      "debtToEquity": null
+    }
+  },
+  "NUE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Nucor Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.23,
+      "earningsGrowth": 0.938,
+      "returnOnEquity": 0.14549,
+      "forwardPE": 12.317769,
+      "debtToEquity": 30.512
+    }
+  },
+  "NVDA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "NVIDIA Corporation",
+      "currency": "USD",
+      "revenueGrowth": 1.059,
+      "earningsGrowth": 1.278,
+      "returnOnEquity": 1.17211,
+      "forwardPE": 13.255753,
+      "debtToEquity": 16.971
+    }
+  },
+  "NVR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "NVR, Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.082,
+      "earningsGrowth": -0.204,
+      "returnOnEquity": 0.28297,
+      "forwardPE": 16.123098,
+      "debtToEquity": 31.083
+    }
+  },
+  "NWS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "News Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.108,
+      "earningsGrowth": -0.749,
+      "returnOnEquity": 0.07979,
+      "forwardPE": 22.338795,
+      "debtToEquity": 31.561
+    }
+  },
+  "NWSA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "News Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.108,
+      "earningsGrowth": -0.749,
+      "returnOnEquity": 0.07979,
+      "forwardPE": 20.331146,
+      "debtToEquity": 31.561
+    }
+  },
+  "NXPI": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "NXP Semiconductors N.V.",
+      "currency": "USD",
+      "revenueGrowth": 0.195,
+      "earningsGrowth": 0.726,
+      "returnOnEquity": 0.27921,
+      "forwardPE": 12.836541,
+      "debtToEquity": 93.325
+    }
+  },
+  "O": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Realty Income Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.096,
+      "earningsGrowth": 0.692,
+      "returnOnEquity": 0.03225,
+      "forwardPE": 36.63185,
+      "debtToEquity": 74.722
+    }
+  },
+  "ODFL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Old Dominion Freight Line, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.104,
+      "earningsGrowth": 0.323,
+      "returnOnEquity": 0.24818,
+      "forwardPE": 27.168215,
+      "debtToEquity": 0.44
+    }
+  },
+  "OKE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "ONEOK, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.528,
+      "earningsGrowth": 0.142,
+      "returnOnEquity": 0.16277,
+      "forwardPE": 15.666022,
+      "debtToEquity": 143.07
+    }
+  },
+  "OMC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Omnicom Group Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.591,
+      "earningsGrowth": 0.36,
+      "returnOnEquity": 0.09942,
+      "forwardPE": 7.309686,
+      "debtToEquity": 107.252
+    }
+  },
+  "ON": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "ON Semiconductor Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.092,
+      "earningsGrowth": 0.366,
+      "returnOnEquity": 0.08312,
+      "forwardPE": 15.83388,
+      "debtToEquity": 65.055
+    }
+  },
+  "ORCL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Oracle Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.296,
+      "earningsGrowth": 0.545,
+      "returnOnEquity": 0.41192,
+      "forwardPE": 11.479663,
+      "debtToEquity": 251.716
+    }
+  },
+  "ORLY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "O'Reilly Automotive, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.081,
+      "earningsGrowth": 0.103,
+      "returnOnEquity": null,
+      "forwardPE": 24.594378,
+      "debtToEquity": null
+    }
+  },
+  "OTIS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Otis Worldwide Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.073,
+      "earningsGrowth": 0.13,
+      "returnOnEquity": null,
+      "forwardPE": 16.58578,
+      "debtToEquity": null
+    }
+  },
+  "OXY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Occidental Petroleum Corporatio",
+      "currency": "USD",
+      "revenueGrowth": 0.534,
+      "earningsGrowth": 9.649,
+      "returnOnEquity": 0.10629,
+      "forwardPE": 12.800565,
+      "debtToEquity": 34.511
+    }
+  },
+  "P": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Everpure, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.377,
+      "earningsGrowth": 0.5,
+      "returnOnEquity": 0.17714,
+      "forwardPE": 29.61069,
+      "debtToEquity": 14.622
+    }
+  },
+  "PANW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Palo Alto Networks, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.345,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.01739,
+      "forwardPE": 77.99642,
+      "debtToEquity": 9.337
+    }
+  },
+  "PAYX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Paychex, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.059,
+      "earningsGrowth": 0.139,
+      "returnOnEquity": 0.47055,
+      "forwardPE": 18.476778,
+      "debtToEquity": 124.704
+    }
+  },
+  "PCAR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "PACCAR Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.005,
+      "earningsGrowth": 0.042,
+      "returnOnEquity": 0.12756,
+      "forwardPE": 14.93932,
+      "debtToEquity": 72.91
+    }
+  },
+  "PCG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Pacific Gas & Electric Co.",
+      "currency": "USD",
+      "revenueGrowth": -0.01,
+      "earningsGrowth": -0.089,
+      "returnOnEquity": 0.08894,
+      "forwardPE": 7.011758,
+      "debtToEquity": 188.02
+    }
+  },
+  "PEG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Public Service Enterprise Group",
+      "currency": "USD",
+      "revenueGrowth": -0.089,
+      "earningsGrowth": -0.427,
+      "returnOnEquity": 0.11835,
+      "forwardPE": 15.50551,
+      "debtToEquity": 142.409
+    }
+  },
+  "PEP": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Pepsico, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.056,
+      "earningsGrowth": 0.174,
+      "returnOnEquity": 0.52187,
+      "forwardPE": 15.71645,
+      "debtToEquity": 230.716
+    }
+  },
+  "PFE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Pfizer, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.026,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.05014,
+      "forwardPE": 10.412297,
+      "debtToEquity": 74.253
+    }
+  },
+  "PFG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Principal Financial Group Inc",
+      "currency": "USD",
+      "revenueGrowth": 0.064,
+      "earningsGrowth": 0.028,
+      "returnOnEquity": 0.12949,
+      "forwardPE": 10.597094,
+      "debtToEquity": 35.307
+    }
+  },
+  "PG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Procter & Gamble Company (The)",
+      "currency": "USD",
+      "revenueGrowth": 0.04,
+      "earningsGrowth": 0.008,
+      "returnOnEquity": 0.29609,
+      "forwardPE": 21.730299,
+      "debtToEquity": 70.343
+    }
+  },
+  "PGR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Progressive Corporation (The)",
+      "currency": "USD",
+      "revenueGrowth": 0.03,
+      "earningsGrowth": -0.021,
+      "returnOnEquity": 0.33239,
+      "forwardPE": 13.996602,
+      "debtToEquity": 24.327
+    }
+  },
+  "PH": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Parker-Hannifin Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.098,
+      "earningsGrowth": 0.193,
+      "returnOnEquity": 0.25076,
+      "forwardPE": 22.154568,
+      "debtToEquity": 56.66
+    }
+  },
+  "PHM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "PulteGroup, Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.098,
+      "earningsGrowth": -0.145,
+      "returnOnEquity": 0.1386,
+      "forwardPE": 12.704474,
+      "debtToEquity": 18.435
+    }
+  },
+  "PKG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Packaging Corporation of Americ",
+      "currency": "USD",
+      "revenueGrowth": 0.125,
+      "earningsGrowth": 0.167,
+      "returnOnEquity": null,
+      "forwardPE": 17.373753,
+      "debtToEquity": 94.474
+    }
+  },
+  "PLD": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Prologis, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.102,
+      "earningsGrowth": 0.031,
+      "returnOnEquity": 0.07709,
+      "forwardPE": 39.921074,
+      "debtToEquity": 61.04
+    }
+  },
+  "PLTR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Palantir Technologies Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.928,
+      "earningsGrowth": 2.154,
+      "returnOnEquity": 0.38097,
+      "forwardPE": 83.52153,
+      "debtToEquity": 2.139
+    }
+  },
+  "PM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Philip Morris International Inc",
+      "currency": "USD",
+      "revenueGrowth": 0.055,
+      "earningsGrowth": -0.048,
+      "returnOnEquity": null,
+      "forwardPE": 21.93856,
+      "debtToEquity": null
+    }
+  },
+  "PNC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "PNC Financial Services Group, I",
+      "currency": "USD",
+      "revenueGrowth": 0.109,
+      "earningsGrowth": 0.143,
+      "returnOnEquity": 0.13104,
+      "forwardPE": 10.504256,
+      "debtToEquity": null
+    }
+  },
+  "PNR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Pentair plc.",
+      "currency": "USD",
+      "revenueGrowth": -0.17,
+      "earningsGrowth": -0.111,
+      "returnOnEquity": 0.17126,
+      "forwardPE": 10.489338,
+      "debtToEquity": 47.067
+    }
+  },
+  "PNW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Pinnacle West Capital Corporati",
+      "currency": "USD",
+      "revenueGrowth": 0.071,
+      "earningsGrowth": -0.095,
+      "returnOnEquity": 0.09365,
+      "forwardPE": 19.023422,
+      "debtToEquity": 233.288
+    }
+  },
+  "PODD": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Insulet Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.235,
+      "earningsGrowth": 3.286,
+      "returnOnEquity": 0.26016,
+      "forwardPE": 19.296114,
+      "debtToEquity": 66.685
+    }
+  },
+  "PPG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "PPG Industries, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.072,
+      "earningsGrowth": -0.015,
+      "returnOnEquity": 0.19297,
+      "forwardPE": 12.896058,
+      "debtToEquity": 86.938
+    }
+  },
+  "PPL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "PPL Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.042,
+      "earningsGrowth": 0.212,
+      "returnOnEquity": 0.08633,
+      "forwardPE": 16.52713,
+      "debtToEquity": 135.434
+    }
+  },
+  "PRU": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Prudential Financial, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.141,
+      "earningsGrowth": 0.892,
+      "returnOnEquity": 0.12011,
+      "forwardPE": 8.153185,
+      "debtToEquity": 163.891
+    }
+  },
+  "PSA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Public Storage",
+      "currency": "USD",
+      "revenueGrowth": 0.033,
+      "earningsGrowth": 0.451,
+      "returnOnEquity": 0.21929,
+      "forwardPE": 31.19715,
+      "debtToEquity": 109.632
+    }
+  },
+  "PSX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Phillips 66",
+      "currency": "USD",
+      "revenueGrowth": 0.531,
+      "earningsGrowth": 3.449,
+      "returnOnEquity": 0.23453,
+      "forwardPE": 9.330216,
+      "debtToEquity": 62.884
+    }
+  },
+  "PTC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "PTC Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.068,
+      "earningsGrowth": -0.12,
+      "returnOnEquity": 0.35053,
+      "forwardPE": 21.731987,
+      "debtToEquity": 46.335
+    }
+  },
+  "PWR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Quanta Services, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.411,
+      "earningsGrowth": 0.947,
+      "returnOnEquity": 0.15337,
+      "forwardPE": 27.458738,
+      "debtToEquity": 67.78
+    }
+  },
+  "PYPL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "PayPal Holdings, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.048,
+      "earningsGrowth": -0.031,
+      "returnOnEquity": 0.24497,
+      "forwardPE": 9.859576,
+      "debtToEquity": 71.751
+    }
+  },
+  "Q": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Qnity Electronics, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.221,
+      "earningsGrowth": -0.343,
+      "returnOnEquity": 0.06722,
+      "forwardPE": 20.049252,
+      "debtToEquity": 59.992
+    }
+  },
+  "QCOM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "QUALCOMM Incorporated",
+      "currency": "USD",
+      "revenueGrowth": -0.04,
+      "earningsGrowth": -0.23,
+      "returnOnEquity": 0.33754,
+      "forwardPE": 17.258701,
+      "debtToEquity": 55.21
+    }
+  },
+  "RCL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Royal Caribbean Cruises Ltd.",
+      "currency": "USD",
+      "revenueGrowth": 0.065,
+      "earningsGrowth": -0.046,
+      "returnOnEquity": 0.4467,
+      "forwardPE": 13.564299,
+      "debtToEquity": 224.816
+    }
+  },
+  "RDDT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Reddit, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.611,
+      "earningsGrowth": 1.778,
+      "returnOnEquity": 0.30712,
+      "forwardPE": 14.899135,
+      "debtToEquity": 0.635
+    }
+  },
+  "REG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Regency Centers Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.089,
+      "earningsGrowth": 0.089,
+      "returnOnEquity": 0.08187,
+      "forwardPE": 29.614033,
+      "debtToEquity": 71.972
+    }
+  },
+  "REGN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Regeneron Pharmaceuticals, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.167,
+      "earningsGrowth": -0.045,
+      "returnOnEquity": 0.14043,
+      "forwardPE": 12.838866,
+      "debtToEquity": 8.535
+    }
+  },
+  "RF": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Regions Financial Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.052,
+      "earningsGrowth": 0.164,
+      "returnOnEquity": 0.1238,
+      "forwardPE": 10.004779,
+      "debtToEquity": null
+    }
+  },
+  "RJF": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Raymond James Financial, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.151,
+      "earningsGrowth": 0.42,
+      "returnOnEquity": 0.18416,
+      "forwardPE": 11.051559,
+      "debtToEquity": 47.594
+    }
+  },
+  "RL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Ralph Lauren Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.14,
+      "earningsGrowth": 0.216,
+      "returnOnEquity": 0.37537,
+      "forwardPE": 18.118204,
+      "debtToEquity": 110.373
+    }
+  },
+  "RMD": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "ResMed Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.086,
+      "earningsGrowth": 0.024,
+      "returnOnEquity": 0.24269,
+      "forwardPE": 19.075567,
+      "debtToEquity": 12.542
+    }
+  },
+  "ROK": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Rockwell Automation, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.079,
+      "earningsGrowth": 0.404,
+      "returnOnEquity": 0.30629,
+      "forwardPE": 28.572655,
+      "debtToEquity": 103.347
+    }
+  },
+  "ROL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Rollins, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.062,
+      "earningsGrowth": -0.023,
+      "returnOnEquity": 0.36004,
+      "forwardPE": 28.17357,
+      "debtToEquity": 80.96
+    }
+  },
+  "ROP": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Roper Technologies, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.076,
+      "earningsGrowth": 0.326,
+      "returnOnEquity": 0.13229,
+      "forwardPE": 17.846355,
+      "debtToEquity": 50.696
+    }
+  },
+  "ROST": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Ross Stores, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.133,
+      "earningsGrowth": 0.705,
+      "returnOnEquity": 0.42628,
+      "forwardPE": 25.515541,
+      "debtToEquity": 70.281
+    }
+  },
+  "RSG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Republic Services, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.046,
+      "earningsGrowth": 0.051,
+      "returnOnEquity": 0.18152,
+      "forwardPE": 29.794247,
+      "debtToEquity": 118.798
+    }
+  },
+  "RTX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "RTX Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.111,
+      "earningsGrowth": 0.34,
+      "returnOnEquity": 0.1285,
+      "forwardPE": 23.77781,
+      "debtToEquity": 54.758
+    }
+  },
+  "RVTY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Revvity, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.013,
+      "earningsGrowth": 0.012,
+      "returnOnEquity": 0.03211,
+      "forwardPE": 26.935598,
+      "debtToEquity": 46.225
+    }
+  },
+  "SBAC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "SBA Communications Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.023,
+      "earningsGrowth": -0.105,
+      "returnOnEquity": null,
+      "forwardPE": 22.907343,
+      "debtToEquity": null
+    }
+  },
+  "SBUX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Starbucks Corporation",
+      "currency": "USD",
+      "revenueGrowth": -0.014,
+      "earningsGrowth": 0.857,
+      "returnOnEquity": null,
+      "forwardPE": 32.252388,
+      "debtToEquity": null
+    }
+  },
+  "SCHW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Charles Schwab Corporation (The",
+      "currency": "USD",
+      "revenueGrowth": 0.169,
+      "earningsGrowth": 0.286,
+      "returnOnEquity": 0.21122,
+      "forwardPE": 11.598843,
+      "debtToEquity": 77.821
+    }
+  },
+  "SHW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Sherwin-Williams Company (The)",
+      "currency": "USD",
+      "revenueGrowth": 0.075,
+      "earningsGrowth": 0.143,
+      "returnOnEquity": 0.65124,
+      "forwardPE": 24.969313,
+      "debtToEquity": 389.958
+    }
+  },
+  "SJM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "The J.M. Smucker Company",
+      "currency": "USD",
+      "revenueGrowth": 0.05,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.03931,
+      "forwardPE": 11.823931,
+      "debtToEquity": 120.682
+    }
+  },
+  "SKYD": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Skydance Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.009,
+      "earningsGrowth": -0.541,
+      "returnOnEquity": -0.00896,
+      "forwardPE": 102.832184,
+      "debtToEquity": 126.479
+    }
+  },
+  "SLB": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "SLB Limited",
+      "currency": "USD",
+      "revenueGrowth": 0.058,
+      "earningsGrowth": -0.02,
+      "returnOnEquity": 0.1166,
+      "forwardPE": 16.855093,
+      "debtToEquity": 47.036
+    }
+  },
+  "SMCI": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Super Micro Computer, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.932,
+      "earningsGrowth": 4.347,
+      "returnOnEquity": 0.21466,
+      "forwardPE": 5.895112,
+      "debtToEquity": 63.951
+    }
+  },
+  "SNA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Snap-On Incorporated",
+      "currency": "USD",
+      "revenueGrowth": -0.007,
+      "earningsGrowth": -0.076,
+      "returnOnEquity": 0.17324,
+      "forwardPE": 16.972092,
+      "debtToEquity": 21.379
+    }
+  },
+  "SNDK": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Sandisk Corporation",
+      "currency": "USD",
+      "revenueGrowth": 3.716,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.9164,
+      "forwardPE": 4.649056,
+      "debtToEquity": 1.277
+    }
+  },
+  "SNPS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Synopsys, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.424,
+      "earningsGrowth": 0.893,
+      "returnOnEquity": 0.03661,
+      "forwardPE": 22.961803,
+      "debtToEquity": 34.804
+    }
+  },
+  "SO": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Southern Company (The)",
+      "currency": "USD",
+      "revenueGrowth": 0.001,
+      "earningsGrowth": 0.304,
+      "returnOnEquity": 0.11483,
+      "forwardPE": 18.868576,
+      "debtToEquity": 182.058
+    }
+  },
+  "SOLV": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Solventum Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.022,
+      "earningsGrowth": 0.039,
+      "returnOnEquity": 0.33961,
+      "forwardPE": 11.787274,
+      "debtToEquity": 110.313
+    }
+  },
+  "SPG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Simon Property Group, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.195,
+      "earningsGrowth": -0.125,
+      "returnOnEquity": 1.20508,
+      "forwardPE": 31.244602,
+      "debtToEquity": 503.504
+    }
+  },
+  "SPGI": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "S&P Global Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.104,
+      "earningsGrowth": 0.177,
+      "returnOnEquity": 0.14255,
+      "forwardPE": 22.337482,
+      "debtToEquity": 42.98
+    }
+  },
+  "SRE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "DBA Sempra",
+      "currency": "USD",
+      "revenueGrowth": -0.001,
+      "earningsGrowth": 0.713,
+      "returnOnEquity": 0.06679,
+      "forwardPE": 15.174354,
+      "debtToEquity": 84.663
+    }
+  },
+  "STE": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "STERIS plc (Ireland)",
+      "currency": "USD",
+      "revenueGrowth": 0.073,
+      "earningsGrowth": 0.14,
+      "returnOnEquity": 0.11389,
+      "forwardPE": 18.82539,
+      "debtToEquity": 28.312
+    }
+  },
+  "STLD": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Steel Dynamics, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.348,
+      "earningsGrowth": 0.92,
+      "returnOnEquity": 0.20812,
+      "forwardPE": 11.281393,
+      "debtToEquity": 45.123
+    }
+  },
+  "STT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "State Street Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.133,
+      "earningsGrowth": 0.327,
+      "returnOnEquity": 0.13079,
+      "forwardPE": 10.822952,
+      "debtToEquity": null
+    }
+  },
+  "STX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Seagate Technology Holdings PLC",
+      "currency": "USD",
+      "revenueGrowth": 0.485,
+      "earningsGrowth": 1.488,
+      "returnOnEquity": 3.71529,
+      "forwardPE": 10.976755,
+      "debtToEquity": 179.88
+    }
+  },
+  "STZ": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Constellation Brands, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.061,
+      "earningsGrowth": 0.253,
+      "returnOnEquity": 0.24015,
+      "forwardPE": 11.463469,
+      "debtToEquity": 116.176
+    }
+  },
+  "SW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Smurfit WestRock plc",
+      "currency": "USD",
+      "revenueGrowth": 0.011,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.02715,
+      "forwardPE": 11.796042,
+      "debtToEquity": 78.427
+    }
+  },
+  "SWK": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Stanley Black & Decker, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.004,
+      "earningsGrowth": 2.478,
+      "returnOnEquity": 0.06886,
+      "forwardPE": 15.734399,
+      "debtToEquity": 58.172
+    }
+  },
+  "SWKS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Skyworks Solutions, Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.031,
+      "earningsGrowth": -0.686,
+      "returnOnEquity": 0.05094,
+      "forwardPE": 14.168703,
+      "debtToEquity": 11.869
+    }
+  },
+  "SYF": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Synchrony Financial",
+      "currency": "USD",
+      "revenueGrowth": -0.047,
+      "earningsGrowth": -0.063,
+      "returnOnEquity": 0.1983,
+      "forwardPE": 7.019791,
+      "debtToEquity": null
+    }
+  },
+  "SYK": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Stryker Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.094,
+      "earningsGrowth": 0.441,
+      "returnOnEquity": 0.16508,
+      "forwardPE": 18.433928,
+      "debtToEquity": 64.391
+    }
+  },
+  "SYY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Sysco Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.047,
+      "earningsGrowth": 0.053,
+      "returnOnEquity": 0.77692,
+      "forwardPE": 15.221268,
+      "debtToEquity": 564.591
+    }
+  },
+  "T": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "AT&T Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.053,
+      "earningsGrowth": -0.904,
+      "returnOnEquity": 0.11613,
+      "forwardPE": 8.070394,
+      "debtToEquity": 144.768
+    }
+  },
+  "TDG": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Transdigm Group Incorporated",
+      "currency": "USD",
+      "revenueGrowth": 0.225,
+      "earningsGrowth": 0.109,
+      "returnOnEquity": null,
+      "forwardPE": 22.719664,
+      "debtToEquity": null
+    }
+  },
+  "TDY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Teledyne Technologies Incorpora",
+      "currency": "USD",
+      "revenueGrowth": 0.094,
+      "earningsGrowth": 0.252,
+      "returnOnEquity": 0.09466,
+      "forwardPE": 22.616835,
+      "debtToEquity": 18.21
+    }
+  },
+  "TECH": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Bio-Techne Corp",
+      "currency": "USD",
+      "revenueGrowth": 0.013,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.09032,
+      "forwardPE": 31.371887,
+      "debtToEquity": 13.712
+    }
+  },
+  "TEL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "TE Connectivity plc",
+      "currency": "USD",
+      "revenueGrowth": 0.138,
+      "earningsGrowth": 0.192,
+      "returnOnEquity": 0.2329,
+      "forwardPE": 16.037464,
+      "debtToEquity": 43.441
+    }
+  },
+  "TER": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Teradyne, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 1.039,
+      "earningsGrowth": 3.858,
+      "returnOnEquity": 0.36465,
+      "forwardPE": 26.941189,
+      "debtToEquity": 2.883
+    }
+  },
+  "TFC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Truist Financial Corporation",
+      "currency": "USD",
+      "revenueGrowth": -0.158,
+      "earningsGrowth": -0.462,
+      "returnOnEquity": 0.08161,
+      "forwardPE": 9.815901,
+      "debtToEquity": null
+    }
+  },
+  "TGT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Target Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.053,
+      "earningsGrowth": 1.005,
+      "returnOnEquity": 0.26408,
+      "forwardPE": 16.00377,
+      "debtToEquity": 107.583
+    }
+  },
+  "TJX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "TJX Companies, Inc. (The)",
+      "currency": "USD",
+      "revenueGrowth": 0.054,
+      "earningsGrowth": 0.236,
+      "returnOnEquity": 0.62171,
+      "forwardPE": 25.125835,
+      "debtToEquity": 134.419
+    }
+  },
+  "TKO": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "TKO Group Holdings, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.182,
+      "earningsGrowth": 0.144,
+      "returnOnEquity": 0.07063,
+      "forwardPE": 36.970818,
+      "debtToEquity": 59.216
+    }
+  },
+  "TMO": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Thermo Fisher Scientific Inc",
+      "currency": "USD",
+      "revenueGrowth": 0.091,
+      "earningsGrowth": 0.087,
+      "returnOnEquity": 0.13379,
+      "forwardPE": 24.28742,
+      "debtToEquity": 75.362
+    }
+  },
+  "TMUS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "T-Mobile US, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.079,
+      "earningsGrowth": 0.053,
+      "returnOnEquity": 0.17994,
+      "forwardPE": 10.159273,
+      "debtToEquity": 214.035
+    }
+  },
+  "TPL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Texas Pacific Land Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.312,
+      "earningsGrowth": 0.327,
+      "returnOnEquity": 0.36566,
+      "forwardPE": 4.626094,
+      "debtToEquity": 1.077
+    }
+  },
+  "TPR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Tapestry, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.089,
+      "earningsGrowth": null,
+      "returnOnEquity": 1.97135,
+      "forwardPE": 12.4248,
+      "debtToEquity": 571.608
+    }
+  },
+  "TRGP": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Targa Resources, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.042,
+      "earningsGrowth": 0.233,
+      "returnOnEquity": 0.7084,
+      "forwardPE": 24.955618,
+      "debtToEquity": 515.794
+    }
+  },
+  "TRMB": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Trimble Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.11,
+      "earningsGrowth": null,
+      "returnOnEquity": -0.01939,
+      "forwardPE": 15.346907,
+      "debtToEquity": 28.553
+    }
+  },
+  "TROW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "T. Rowe Price Group, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.107,
+      "earningsGrowth": 0.286,
+      "returnOnEquity": 0.194,
+      "forwardPE": 10.201095,
+      "debtToEquity": 3.702
+    }
+  },
+  "TRV": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "The Travelers Companies, Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.005,
+      "earningsGrowth": 0.097,
+      "returnOnEquity": 0.27497,
+      "forwardPE": 12.805983,
+      "debtToEquity": 33.844
+    }
+  },
+  "TSCO": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Tractor Supply Company",
+      "currency": "USD",
+      "revenueGrowth": 0.051,
+      "earningsGrowth": -0.121,
+      "returnOnEquity": 0.37347,
+      "forwardPE": 16.150623,
+      "debtToEquity": 252.586
+    }
+  },
+  "TSLA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Tesla, Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.002,
+      "earningsGrowth": -0.436,
+      "returnOnEquity": 0.03844,
+      "forwardPE": 171.9841,
+      "debtToEquity": 18.295
+    }
+  },
+  "TSN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Tyson Foods, Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.001,
+      "earningsGrowth": 2.041,
+      "returnOnEquity": 0.03263,
+      "forwardPE": 14.555144,
+      "debtToEquity": 44.025
+    }
+  },
+  "TT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Trane Technologies plc",
+      "currency": "USD",
+      "revenueGrowth": 0.106,
+      "earningsGrowth": 0.071,
+      "returnOnEquity": 0.36643,
+      "forwardPE": 25.199219,
+      "debtToEquity": 53.404
+    }
+  },
+  "TTWO": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Take-Two Interactive Software, ",
+      "currency": "USD",
+      "revenueGrowth": 0.02,
+      "earningsGrowth": null,
+      "returnOnEquity": -0.09039,
+      "forwardPE": 19.735146,
+      "debtToEquity": 81.607
+    }
+  },
+  "TWLO": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Twilio Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.22,
+      "earningsGrowth": 46.715,
+      "returnOnEquity": 0.13497,
+      "forwardPE": 38.493153,
+      "debtToEquity": 11.868
+    }
+  },
+  "TXN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Texas Instruments Incorporated",
+      "currency": "USD",
+      "revenueGrowth": 0.277,
+      "earningsGrowth": 0.77,
+      "returnOnEquity": 0.39724,
+      "forwardPE": 24.707226,
+      "debtToEquity": 70.654
+    }
+  },
+  "TXT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Textron Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.03,
+      "earningsGrowth": 0.052,
+      "returnOnEquity": 0.12126,
+      "forwardPE": 10.635941,
+      "debtToEquity": 52.285
+    }
+  },
+  "TYL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Tyler Technologies, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.082,
+      "earningsGrowth": 0.155,
+      "returnOnEquity": 0.09731,
+      "forwardPE": 25.390715,
+      "debtToEquity": 47.906
+    }
+  },
+  "UAL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "United Airlines Holdings, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.174,
+      "earningsGrowth": 0.083,
+      "returnOnEquity": 0.22312,
+      "forwardPE": 8.191449,
+      "debtToEquity": 193.162
+    }
+  },
+  "UBER": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Uber Technologies, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.122,
+      "earningsGrowth": 0.855,
+      "returnOnEquity": 0.3716,
+      "forwardPE": 15.11762,
+      "debtToEquity": 51.872
+    }
+  },
+  "UDR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "UDR, Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.001,
+      "earningsGrowth": 0.909,
+      "returnOnEquity": 0.13739,
+      "forwardPE": 64.0,
+      "debtToEquity": 156.144
+    }
+  },
+  "UHS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Universal Health Services, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.083,
+      "earningsGrowth": 0.101,
+      "returnOnEquity": 0.20948,
+      "forwardPE": 7.823695,
+      "debtToEquity": 68.74
+    }
+  },
+  "ULTA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Ulta Beauty, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.089,
+      "earningsGrowth": 0.133,
+      "returnOnEquity": 0.46117,
+      "forwardPE": 19.455965,
+      "debtToEquity": 95.472
+    }
+  },
+  "UNH": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "UnitedHealth Group Incorporated",
+      "currency": "USD",
+      "revenueGrowth": -0.004,
+      "earningsGrowth": 0.759,
+      "returnOnEquity": 0.15773,
+      "forwardPE": 17.963383,
+      "debtToEquity": 70.426
+    }
+  },
+  "UNP": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Union Pacific Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.153,
+      "earningsGrowth": 0.159,
+      "returnOnEquity": 0.38747,
+      "forwardPE": 20.363861,
+      "debtToEquity": 141.303
+    }
+  },
+  "UPS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "United Parcel Service, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.076,
+      "earningsGrowth": -0.53,
+      "returnOnEquity": 0.29602,
+      "forwardPE": 12.540624,
+      "debtToEquity": 189.9
+    }
+  },
+  "URI": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "United Rentals, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.157,
+      "earningsGrowth": 0.354,
+      "returnOnEquity": 0.30564,
+      "forwardPE": 18.425562,
+      "debtToEquity": 163.662
+    }
+  },
+  "USB": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "U.S. Bancorp",
+      "currency": "USD",
+      "revenueGrowth": 0.084,
+      "earningsGrowth": 0.102,
+      "returnOnEquity": 0.12843,
+      "forwardPE": 10.230399,
+      "debtToEquity": null
+    }
+  },
+  "V": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Visa Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.144,
+      "earningsGrowth": 0.102,
+      "returnOnEquity": 0.6119,
+      "forwardPE": 27.152346,
+      "debtToEquity": 67.821
+    }
+  },
+  "VEEV": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Veeva Systems Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.176,
+      "earningsGrowth": 0.395,
+      "returnOnEquity": 0.14425,
+      "forwardPE": 31.514132,
+      "debtToEquity": 2.041
+    }
+  },
+  "VICI": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "VICI Properties Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.057,
+      "earningsGrowth": -0.414,
+      "returnOnEquity": 0.09849,
+      "forwardPE": 7.946488,
+      "debtToEquity": 60.277
+    }
+  },
+  "VLO": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Valero Energy Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.519,
+      "earningsGrowth": 5.768,
+      "returnOnEquity": null,
+      "forwardPE": 8.117379,
+      "debtToEquity": 40.148
+    }
+  },
+  "VLTO": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Veralto Corp",
+      "currency": "USD",
+      "revenueGrowth": 0.075,
+      "earningsGrowth": 0.101,
+      "returnOnEquity": 0.34312,
+      "forwardPE": 21.788435,
+      "debtToEquity": 115.978
+    }
+  },
+  "VMC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Vulcan Materials Company (Holdi",
+      "currency": "USD",
+      "revenueGrowth": 0.025,
+      "earningsGrowth": 0.027,
+      "returnOnEquity": 0.13234,
+      "forwardPE": 25.594507,
+      "debtToEquity": 58.22
+    }
+  },
+  "VMRK": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Vivmark Residential",
+      "currency": "USD",
+      "revenueGrowth": 0.033,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.08487,
+      "forwardPE": 42.837917,
+      "debtToEquity": 75.129
+    }
+  },
+  "VRSK": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Verisk Analytics, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.044,
+      "earningsGrowth": -0.034,
+      "returnOnEquity": null,
+      "forwardPE": 22.524342,
+      "debtToEquity": null
+    }
+  },
+  "VRSN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "VeriSign, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.057,
+      "earningsGrowth": 0.035,
+      "returnOnEquity": null,
+      "forwardPE": 27.44433,
+      "debtToEquity": null
+    }
+  },
+  "VRT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Vertiv Holdings, LLC",
+      "currency": "USD",
+      "revenueGrowth": 0.241,
+      "earningsGrowth": 0.53,
+      "returnOnEquity": 0.43943,
+      "forwardPE": 21.13442,
+      "debtToEquity": 70.166
+    }
+  },
+  "VRTX": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Vertex Pharmaceuticals Incorpor",
+      "currency": "USD",
+      "revenueGrowth": 0.125,
+      "earningsGrowth": 0.08,
+      "returnOnEquity": 0.23543,
+      "forwardPE": 25.659788,
+      "debtToEquity": 9.767
+    }
+  },
+  "VST": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Vistra Corp.",
+      "currency": "USD",
+      "revenueGrowth": -0.055,
+      "earningsGrowth": -0.062,
+      "returnOnEquity": 0.42962,
+      "forwardPE": 13.520749,
+      "debtToEquity": 373.28
+    }
+  },
+  "VTR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Ventas, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.217,
+      "earningsGrowth": -0.067,
+      "returnOnEquity": 0.02012,
+      "forwardPE": 109.87342,
+      "debtToEquity": 84.928
+    }
+  },
+  "VTRS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Viatris Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.049,
+      "earningsGrowth": null,
+      "returnOnEquity": -0.02754,
+      "forwardPE": 6.672598,
+      "debtToEquity": 95.535
+    }
+  },
+  "VYLR": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Vylor Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.012,
+      "earningsGrowth": -0.099,
+      "returnOnEquity": 0.04256,
+      "forwardPE": 28.243088,
+      "debtToEquity": 19.191
+    }
+  },
+  "VZ": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Verizon Communications Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.007,
+      "earningsGrowth": -0.22,
+      "returnOnEquity": 0.15842,
+      "forwardPE": 8.471345,
+      "debtToEquity": 184.081
+    }
+  },
+  "WAB": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Westinghouse Air Brake Technolo",
+      "currency": "USD",
+      "revenueGrowth": 0.081,
+      "earningsGrowth": 0.337,
+      "returnOnEquity": 0.12236,
+      "forwardPE": 21.648413,
+      "debtToEquity": 59.609
+    }
+  },
+  "WAT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Waters Corporation",
+      "currency": "USD",
+      "revenueGrowth": 1.134,
+      "earningsGrowth": null,
+      "returnOnEquity": 0.0192,
+      "forwardPE": 27.408922,
+      "debtToEquity": 36.045
+    }
+  },
+  "WDAY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Workday, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.128,
+      "earningsGrowth": 2.06,
+      "returnOnEquity": 0.16006,
+      "forwardPE": 15.856728,
+      "debtToEquity": 58.39
+    }
+  },
+  "WDC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Western Digital Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.555,
+      "earningsGrowth": 0.509,
+      "returnOnEquity": 1.29596,
+      "forwardPE": 8.689015,
+      "debtToEquity": 9.863
+    }
+  },
+  "WEC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "WEC Energy Group, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.026,
+      "earningsGrowth": 0.197,
+      "returnOnEquity": 0.11988,
+      "forwardPE": 18.491547,
+      "debtToEquity": 157.985
+    }
+  },
+  "WELL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Welltower Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.391,
+      "earningsGrowth": 0.356,
+      "returnOnEquity": 0.03836,
+      "forwardPE": 74.1625,
+      "debtToEquity": 41.375
+    }
+  },
+  "WFC": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Wells Fargo & Company",
+      "currency": "USD",
+      "revenueGrowth": 0.004,
+      "earningsGrowth": 0.127,
+      "returnOnEquity": 0.1291,
+      "forwardPE": 10.28394,
+      "debtToEquity": null
+    }
+  },
+  "WM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Waste Management, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.04,
+      "earningsGrowth": 0.083,
+      "returnOnEquity": 0.29841,
+      "forwardPE": 26.347652,
+      "debtToEquity": 235.301
+    }
+  },
+  "WMB": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Williams Companies, Inc. (The)",
+      "currency": "USD",
+      "revenueGrowth": 0.078,
+      "earningsGrowth": 0.512,
+      "returnOnEquity": 0.21503,
+      "forwardPE": 27.108263,
+      "debtToEquity": 200.371
+    }
+  },
+  "WMT": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Walmart Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.059,
+      "earningsGrowth": -0.091,
+      "returnOnEquity": 0.22314,
+      "forwardPE": 37.158028,
+      "debtToEquity": 71.653
+    }
+  },
+  "WRB": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "W.R. Berkley Corporation",
+      "currency": "USD",
+      "revenueGrowth": -0.008,
+      "earningsGrowth": -0.109,
+      "returnOnEquity": null,
+      "forwardPE": 15.091955,
+      "debtToEquity": 31.527
+    }
+  },
+  "WSM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Williams-Sonoma, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.067,
+      "earningsGrowth": 0.42,
+      "returnOnEquity": 0.54961,
+      "forwardPE": 24.018845,
+      "debtToEquity": 71.369
+    }
+  },
+  "WST": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "West Pharmaceutical Services, I",
+      "currency": "USD",
+      "revenueGrowth": 0.138,
+      "earningsGrowth": 0.181,
+      "returnOnEquity": 0.19087,
+      "forwardPE": 39.27757,
+      "debtToEquity": 10.585
+    }
+  },
+  "WTW": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Willis Towers Watson Public Lim",
+      "currency": "USD",
+      "revenueGrowth": 0.091,
+      "earningsGrowth": -0.268,
+      "returnOnEquity": 0.19762,
+      "forwardPE": 14.172704,
+      "debtToEquity": 91.39
+    }
+  },
+  "WY": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Weyerhaeuser Company",
+      "currency": "USD",
+      "revenueGrowth": -0.009,
+      "earningsGrowth": 0.871,
+      "returnOnEquity": 0.04974,
+      "forwardPE": 33.05687,
+      "debtToEquity": 57.625
+    }
+  },
+  "WYNN": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Wynn Resorts, Limited",
+      "currency": "USD",
+      "revenueGrowth": 0.069,
+      "earningsGrowth": 1.061,
+      "returnOnEquity": null,
+      "forwardPE": 15.565211,
+      "debtToEquity": null
+    }
+  },
+  "XEL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Xcel Energy Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.051,
+      "earningsGrowth": 0.24,
+      "returnOnEquity": 0.0992,
+      "forwardPE": 17.184137,
+      "debtToEquity": 173.135
+    }
+  },
+  "XOM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "ExxonMobil Holdings Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.441,
+      "earningsGrowth": 1.128,
+      "returnOnEquity": 0.12584,
+      "forwardPE": 14.924061,
+      "debtToEquity": 15.921
+    }
+  },
+  "XYL": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Xylem Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.015,
+      "earningsGrowth": 0.195,
+      "returnOnEquity": 0.09183,
+      "forwardPE": 17.49334,
+      "debtToEquity": 28.642
+    }
+  },
+  "XYZ": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Block, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.093,
+      "earningsGrowth": -0.833,
+      "returnOnEquity": 0.01612,
+      "forwardPE": 14.666474,
+      "debtToEquity": 32.58
+    }
+  },
+  "YUM": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Yum! Brands, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.122,
+      "earningsGrowth": 1.316,
+      "returnOnEquity": null,
+      "forwardPE": 21.94474,
+      "debtToEquity": null
+    }
+  },
+  "ZBH": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Zimmer Biomet Holdings, Inc.",
+      "currency": "USD",
+      "revenueGrowth": 0.048,
+      "earningsGrowth": 0.338,
+      "returnOnEquity": 0.06413,
+      "forwardPE": 10.886638,
+      "debtToEquity": 60.175
+    }
+  },
+  "ZBRA": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Zebra Technologies Corporation",
+      "currency": "USD",
+      "revenueGrowth": 0.204,
+      "earningsGrowth": 1.215,
+      "returnOnEquity": 0.15286,
+      "forwardPE": 17.335108,
+      "debtToEquity": 86.23
+    }
+  },
+  "ZTS": {
+    "updated_at": "2026-10-26T02:22:14.664568+00:00",
+    "values": {
+      "shortName": "Zoetis Inc.",
+      "currency": "USD",
+      "revenueGrowth": -0.002,
+      "earningsGrowth": 0.012,
+      "returnOnEquity": 0.64911,
+      "forwardPE": 12.567545,
+      "debtToEquity": 293.996
+    }
   }
 }
