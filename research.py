@@ -109,7 +109,7 @@ def refresh_fundamentals(tickers, cache, max_requests, stale_days):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--indices', default='SP500,NASDAQ100,DOW30,RUSSELL2000')
-    parser.add_argument('--max-fundamentals', type=int, default=120)
+    parser.add_argument('--max-fundamentals', type=int, default=None)
     parser.add_argument('--fundamental-stale-days', type=int, default=14)
     parser.add_argument('--min-price-coverage', type=float, default=0.85)
     args = parser.parse_args()
