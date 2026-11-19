@@ -6036,14 +6036,14 @@
     }
   },
   "OKTA": {
-    "updated_at": "2026-11-05T01:44:44.166662+00:00",
+    "updated_at": "2026-11-19T02:45:03.616576+00:00",
     "values": {
       "shortName": "Okta, Inc.",
       "currency": "USD",
       "revenueGrowth": 0.106,
       "earningsGrowth": 0.757,
       "returnOnEquity": 0.04313,
-      "forwardPE": 43.636154,
+      "forwardPE": 44.677666,
       "debtToEquity": 0.76
     }
   }
